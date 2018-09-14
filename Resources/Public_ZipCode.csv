@@ -2,6 +2,7 @@ Building Name,District Name,County,"City, State, Zip Code",Performance Index Sco
 Ada Elementary School,Ada Exempted Village,Hardin,"Ada, OH, 45810-1013",96.125,Ada, OH, 45810,1013
 Ada High School,Ada Exempted Village,Hardin,"Ada, OH, 45810-1013",91.667,Ada, OH, 45810,1013
 Sandusky Middle School,Sandusky City,Erie,"Sandusky, OH, 44870-2616",62.772,Sandusky, OH, 44870,2616
+Meigs Primary School,Meigs Local,Meigs,"Middleport, OH, 45760-9717",NC,Middleport, OH, 45760,9717
 Meigs Intermediate School,Meigs Local,Meigs,"Middleport, OH, 45760-9717",70.394,Middleport, OH, 45760,9717
 Hamilton Freshman School,Hamilton City,Butler,"Hamilton, OH, 45013",67.364,Hamilton, OH, 45013,
 Adamsville Elementary School,Tri-Valley Local,Muskingum,"Adamsville, OH, 43802-9024",88.555,Adamsville, OH, 43802,9024
@@ -23,6 +24,7 @@ Unioto Elementary,Union-Scioto Local,Ross,"Chillicothe, OH, 45601-9432",90.091,C
 Adrian Elementary School,South Euclid-Lyndhurst City,Cuyahoga,"South Euclid, OH, 44121-3580",86.637,South Euclid, OH, 44121,3580
 Ella P. Stewart Academy for Girls,Toledo City,Lucas,"Toledo, OH, 43604-8305",64.136,Toledo, OH, 43604,8305
 "Ohio Connections Academy, Inc","Ohio Connections Academy, Inc",Cuyahoga,"Cleveland, OH, 44115-2229",80.331,Cleveland, OH, 44115,2229
+Quaker Digital Academy,New Philadelphia City,Tuscarawas,"New Philadelphia, OH, 44663-2150",NC,New Philadelphia, OH, 44663,2150
 North Union Elementary School,North Union Local School District,Union,"Richwood, OH, 43344-9022",89.369,Richwood, OH, 43344,9022
 Alexander Elementary School,Alexander Local,Athens,"Albany, OH, 45710-9236",83.062,Albany, OH, 45710,9236
 Albion Elementary School,North Royalton City,Cuyahoga,"North Royalton, OH, 44133-1768",101.674,North Royalton, OH, 44133,1768
@@ -46,6 +48,7 @@ Constellation Schools: Madison Community Elementary,Constellation Schools: Madis
 Constellation Schools: Lorain Community Middle,Constellation Schools: Lorain Community Middle,Lorain,"Parma, OH, 44134-1602",65.591,Parma, OH, 44134,1602
 Constellation Schools: Old Brooklyn Community Middle,Constellation Schools: Old Brooklyn Community Middle,Cuyahoga,"Parma, OH, 44134-1602",77.643,Parma, OH, 44134,1602
 Horizon Science Academy Toledo,Horizon Science Academy Toledo,Lucas,"Toledo, OH, 43613-4300",50.884,Toledo, OH, 43613,4300
+Youngstown Virtual Academy,Youngstown City,Mahoning,"Youngstown, OH, 44503-1028",NC,Youngstown, OH, 44503,1028
 Elmwood Elementary School,Elmwood Local,Wood,"Bloomdale, OH, 44817-9763",91.273,Bloomdale, OH, 44817,9763
 Palm Elementary School,Lorain City,Lorain,"Lorain, OH, 44055-2027",66.527,Lorain, OH, 44055,2027
 Upper Scioto Valley Middle School,Upper Scioto Valley Local,Hardin,"Mc Guffey, OH, 45859",74.713,Mc Guffey, OH, 45859,
@@ -54,15 +57,19 @@ Ulysses S. Grant Middle School,Marion City,Marion,"Marion, OH, 43302-5173",63.47
 William McKinley Elementary School,Marion City,Marion,"Marion, OH, 43302-7110",59.815,Marion, OH, 43302,7110
 Genoa Elementary,Genoa Area Local,Ottawa,"Genoa, OH, 43430-9730",92.178,Genoa, OH, 43430,9730
 Bridges Learning Center,Akron City,Summit,"Akron, OH, 44306-4201",40.796,Akron, OH, 44306,4201
+Akron Alternative Academy,Akron City,Summit,"Akron, OH, 44311-1357",NC,Akron, OH, 44311,1357
 Allen East High School,Allen East Local,Allen,"Harrod, OH, 45850-9485",77.776,Harrod, OH, 45850,9485
+Crestwood Primary School,Crestwood Local,Portage,"Mantua, OH, 44255-9454",NC,Mantua, OH, 44255,9454
 Crestwood Intermediate School,Crestwood Local,Portage,"Mantua, OH, 44255-9454",98.006,Mantua, OH, 44255,9454
 Chieftain Elementary School,Logan-Hocking Local,Hocking,"Logan, OH, 43138-9557",98.052,Logan, OH, 43138,9557
 Hocking Hills Elementary School,Logan-Hocking Local,Hocking,"Logan, OH, 43138-9536",99.466,Logan, OH, 43138,9536
 Central Elementary School,Logan-Hocking Local,Hocking,"Logan, OH, 43138",96.736,Logan, OH, 43138,
 Gateway Elementary School,Conneaut Area City,Ashtabula,"Conneaut, OH, 44030",82.397,Conneaut, OH, 44030,
+Lakeshore Primary Elementary School,Conneaut Area City,Ashtabula,"Conneaut, OH, 44030-1448",NC,Conneaut, OH, 44030,1448
 Mansfield Elective Academy,Office of School Sponsorship,Franklin,"Mansfield, OH, 44906-2630",42.157,Mansfield, OH, 44906,2630
 Allen Elementary School,Chillicothe City,Ross,"Chillicothe, OH, 45601-2006",98.840,Chillicothe, OH, 45601,2006
 Mapleton Elementary School,Mapleton Local,Ashland,"Ashland, OH, 44805",92.813,Ashland, OH, 44805,
+Allen Elementary School,Canton City,Stark,"Canton, OH, 44707-3531",NC,Canton, OH, 44707,3531
 Buckeye On-Line School for Success,Buckeye On-Line School for Success,Columbiana,"East Liverpool, OH, 43920-3030",64.095,East Liverpool, OH, 43920,3030
 Jackson Westview Elementary School,Jackson City,Jackson,"Jackson, OH, 45640-9005",99.488,Jackson, OH, 45640,9005
 Eastgate Elementary School,Columbus City,Franklin,"Columbus, OH, 43219-2946",46.704,Columbus, OH, 43219,2946
@@ -72,9 +79,11 @@ Manchester Elementary School,Manchester Local,Adams,"Manchester, OH, 45144-9314"
 West Elementary,Vinton County Local,Vinton,"Mc Arthur, OH, 45651-8859",95.087,Mc Arthur, OH, 45651,8859
 Alliance High School,Alliance City,Stark,"Alliance, OH, 44601-2810",75.574,Alliance, OH, 44601,2810
 Independence Elementary School,Lima City,Allen,"Lima, OH, 45801",73.898,Lima, OH, 45801,
+Sharpsburg Primary,Norwood City,Hamilton,"Norwood, OH, 45212-3332",NC,Norwood, OH, 45212,3332
 Liberty Arts Magnet K-8,Lima City,Allen,"Lima, OH, 45804-1168",88.955,Lima, OH, 45804,1168
 Bluestone Elementary School,Euclid City,Cuyahoga,"Euclid, OH, 44132-3107",58.424,Euclid, OH, 44132,3107
 Almira,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44102-4642",46.384,Cleveland, OH, 44102,4642
+Bowman Primary School,Lebanon City,Warren,"Lebanon, OH, 45036",NC,Lebanon, OH, 45036,
 Lebanon Junior High,Lebanon City,Warren,"Lebanon, OH, 45036-1234",88.597,Lebanon, OH, 45036,1234
 Alpine Elementary School,Columbus City,Franklin,"Columbus, OH, 43229-2120",83.538,Columbus, OH, 43229,2120
 Ripley Union Lewis Huntington Middle School,Ripley-Union-Lewis-Huntington Local,Brown,"Aberdeen, OH, 45101-9502",72.299,Aberdeen, OH, 45101,9502
@@ -117,6 +126,7 @@ Summit Academy Community School - Painesville,Summit Academy Community School - 
 Summit Academy Toledo Learning Center,Summit Academy Toledo Learning Center,Lucas,"Toledo, OH, 43614-1801",54.173,Toledo, OH, 43614,1801
 Summit Academy Secondary School - Middletown,Summit Academy Secondary School - Middletown,Butler,"Middletown, OH, 45044-5375",57.273,Middletown, OH, 45044,5375
 Amherst Elementary School,Jackson Local,Stark,"Massillon, OH, 44646-1626",100.501,Massillon, OH, 44646,1626
+Rittman Academy,Office of School Sponsorship,Franklin,"Rittman, OH, 44270-1259",NC,Rittman, OH, 44270,1259
 Amity Elementary School,Deer Park Community City,Hamilton,"Cincinnati, OH, 45236-2618",89.972,Cincinnati, OH, 45236,2618
 Frank Jacinto Elementary,Lorain City,Lorain,"Lorain, OH, 44052-4337",56.655,Lorain, OH, 44052,4337
 New Day Academy Boarding & Day School,New Day Academy Boarding & Day School,Cuyahoga,"Mentor, OH, 44060-1917",40.290,Mentor, OH, 44060,1917
@@ -129,6 +139,7 @@ Zenith Academy,Zenith Academy,Franklin,"Blacklick, OH, 43004-8630",50.179,Blackl
 Andrew J Rickoff,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44120-4834",44.327,Cleveland, OH, 44120,4834
 HBCU Preparatory School 1,HBCU Preparatory School 1,Cuyahoga,"Cleveland, OH, 44120-2041",71.775,Cleveland, OH, 44120,2041
 Massillon Junior High School,Massillon City,Stark,"Massillon, OH, 44647-5910",74.768,Massillon, OH, 44647,5910
+HBCU Preparatory School 2,HBCU Preparatory School 2,Cuyahoga,"Cleveland, OH, 44120-2041",NC,Cleveland, OH, 44120,2041
 Anna Elementary School,Anna Local,Shelby,"Anna, OH, 45302-0169",106.593,Anna, OH, 45302,0169
 Anna High School,Anna Local,Shelby,"Anna, OH, 45302-0169",95.226,Anna, OH, 45302,0169
 Ansonia Elementary School,Ansonia Local,Darke,"Ansonia, OH, 45303-0279",91.337,Ansonia, OH, 45303,0279
@@ -196,15 +207,19 @@ Timmons Elementary School,Kenston Local,Geauga,"Chagrin Falls, OH, 44023-2762",1
 Oakwood Elementary School,Paulding Exempted Village,Paulding,"Oakwood, OH, 45873-0037",103.304,Oakwood, OH, 45873,0037
 Augusta Elementary School,Carrollton Exempted Village,Carroll,"Carrollton, OH, 44615-9739",99.302,Carrollton, OH, 44615,9739
 Aurora High School,Aurora City,Portage,"Aurora, OH, 44202-9103",103.227,Aurora, OH, 44202,9103
+Craddock Elementary School,Aurora City,Portage,"Aurora, OH, 44202-9369",NC,Aurora, OH, 44202,9369
 Austinburg Elementary School,Geneva Area City,Ashtabula,"Austinburg, OH, 44010-9703",92.205,Austinburg, OH, 44010,9703
 Austintown Middle School,Austintown Local Schools,Mahoning,"Youngstown, OH, 44515-3537",81.997,Youngstown, OH, 44515,3537
 Avery Elementary School,Hilliard City,Franklin,"Hilliard, OH, 43026-1007",92.171,Hilliard, OH, 43026,1007
+Avon East Elementary School,Avon Local,Lorain,"Avon, OH, 44011-2058",NC,Avon, OH, 44011,2058
+Avon Early Learning Center,Avon Local,Lorain,"Avon, OH, 44011-1821",NC,Avon, OH, 44011,1821
 Avon High School,Avon Local,Lorain,"Avon, OH, 44011-2133",97.610,Avon, OH, 44011,2133
 Avon Lake High School,Avon Lake City,Lorain,"Avon Lake, OH, 44012-1600",94.192,Avon Lake, OH, 44012,1600
 Avondale Elementary School,Columbus City,Franklin,"Columbus, OH, 43222-1461",73.885,Columbus, OH, 43222,1461
 Avondale Elementary School,Plain Local,Stark,"Canton, OH, 44708-1651",104.048,Canton, OH, 44708,1651
 Ayersville Elementary School,Ayersville Local,Defiance,"Defiance, OH, 43512-8851",96.965,Defiance, OH, 43512,8851
 Ayersville High School,Ayersville Local,Defiance,"Defiance, OH, 43512-8851",90.837,Defiance, OH, 43512,8851
+Babeck Early Childhood School,Edgewood City,Butler,"Trenton, OH, 45067-1849",NC,Trenton, OH, 45067,1849
 Badger High School,Joseph Badger Local,Trumbull,"Kinsman, OH, 44428-9788",88.707,Kinsman, OH, 44428,9788
 Paint Valley Middle School,Paint Valley Local,Ross,"Bainbridge, OH, 45612-9708",70.958,Bainbridge, OH, 45612,9708
 Baker Elementary School,Mathews Local,Trumbull,"Vienna, OH, 44473-9606",99.897,Vienna, OH, 44473,9606
@@ -215,7 +230,9 @@ Barnesville Elementary School,Barnesville Exempted Village,Belmont,"Barnesville,
 Barnesville High School,Barnesville Exempted Village,Belmont,"Barnesville, OH, 43713-9115",76.235,Barnesville, OH, 43713,9115
 Brookside Intermediate School,Sheffield-Sheffield Lake City,Lorain,"Sheffield Village, OH, 44054-2628",92.373,Sheffield Village, OH, 44054,2628
 Barrington Road Elementary School,Upper Arlington City,Franklin,"Upper Arlington, OH, 43221-3839",106.025,Upper Arlington, OH, 43221,3839
+Bascom Elementary School,LaBrae Local,Trumbull,"Leavittsburg, OH, 44430-9644",NC,Leavittsburg, OH, 44430,9644
 Bassett Elementary School,Westlake City,Cuyahoga,"Westlake, OH, 44145-2964",107.018,Westlake, OH, 44145,2964
+Bataan Memorial Primary School,Port Clinton City,Ottawa,"Port Clinton, OH, 43452-2160",NC,Port Clinton, OH, 43452,2160
 Batavia Elementary School,Batavia Local,Clermont,"Batavia, OH, 45103-2803",88.694,Batavia, OH, 45103,2803
 Batavia High School,Batavia Local,Clermont,"Batavia, OH, 45103-3213",84.111,Batavia, OH, 45103,3213
 Bath Elementary School,Revere Local,Summit,"Akron, OH, 44333-2126",107.477,Akron, OH, 44333,2126
@@ -239,6 +256,7 @@ Beavercreek High School,Beavercreek City,Greene,"Beavercreek, OH, 45434-6416",89
 Beavertown Elementary School,Kettering City School District,Montgomery,"Kettering, OH, 45419-2141",98.383,Kettering, OH, 45419,2141
 Bedford High School,Bedford City,Cuyahoga,"Bedford, OH, 44146-2201",70.748,Bedford, OH, 44146,2201
 Beechwood Elementary School,Whitehall City,Franklin,"Whitehall, OH, 43213-2313",65.220,Whitehall, OH, 43213,2313
+Winton Woods Primary North,Winton Woods City,Hamilton,"Cincinnati, OH, 45218-1229",NC,Cincinnati, OH, 45218,1229
 Belden Elementary School,Canton City,Stark,"Canton, OH, 44704-2257",60.374,Canton, OH, 44704,2257
 Bellaire High School,Bellaire Local,Belmont,"Bellaire, OH, 43906-1278",67.910,Bellaire, OH, 43906,1278
 Bellbrook Middle School,Bellbrook-Sugarcreek Local,Greene,"Bellbrook, OH, 45305-9704",100.788,Bellbrook, OH, 45305,9704
@@ -283,6 +301,7 @@ Blanchester Middle School,Blanchester Local,Clinton,"Blanchester, OH, 45107-7907
 Blanchester High School,Blanchester Local,Clinton,"Blanchester, OH, 45107-7907",85.519,Blanchester, OH, 45107,7907
 Bloom Carroll Intermediate School,Bloom-Carroll Local,Fairfield,"Lithopolis, OH, 43136-0208",93.812,Lithopolis, OH, 43136,0208
 South Webster Jr/Sr High School,Bloom-Vernon Local,Scioto,"South Webster, OH, 45682-0100",78.820,South Webster, OH, 45682,0100
+Bloom Carroll Primary School,Bloom-Carroll Local,Fairfield,"Carroll, OH, 43112-9661",NC,Carroll, OH, 43112,9661
 Edgewood Elementary School,Edgewood City,Butler,"Trenton, OH, 45067-7612",93.199,Trenton, OH, 45067,7612
 Bloomfield High School,Bloomfield-Mespo Local,Trumbull,"North Bloomfield, OH, 44450-9702",87.500,North Bloomfield, OH, 44450,9702
 Miami Trace Middle School,Miami Trace Local,Fayette,"Washington Court House, OH, 43160-9184",82.780,Washington Court House, OH, 43160,9184
@@ -314,6 +333,7 @@ Brantner Lane Elementary School,West Clermont Local,Clermont,"Cincinnati, OH, 45
 Brantwood Elementary School,Mad River Local,Montgomery,"Dayton, OH, 45404-1341",87.637,Dayton, OH, 45404,1341
 Brecksville-Broadview Heights High School,Brecksville-Broadview Heights City,Cuyahoga,"Broadview Heights, OH, 44147-2260",103.747,Broadview Heights, OH, 44147,2260
 Brecksville-Broadview Heights Middle School,Brecksville-Broadview Heights City,Cuyahoga,"Broadview Heights, OH, 44147-2260",105.234,Broadview Heights, OH, 44147,2260
+Brent Elementary School,Finneytown Local,Hamilton,"Cincinnati, OH, 45231-4911",NC,Cincinnati, OH, 45231,4911
 Brentmoor Elementary School,Mentor Exempted Village,Lake,"Mentor, OH, 44060-5531",99.609,Mentor, OH, 44060,5531
 The Bridgeport School District - High School,Bridgeport Exempted Village,Belmont,"Bridgeport, OH, 43912-1516",75.493,Bridgeport, OH, 43912,1516
 Bridgetown Middle School,Oak Hills Local,Hamilton,"Cincinnati, OH, 45211-4300",95.283,Cincinnati, OH, 45211,4300
@@ -338,12 +358,15 @@ Brown Elementary School,Hilliard City,Franklin,"Hilliard, OH, 43026-8309",86.480
 Brown Middle School,Ravenna City,Portage,"Ravenna, OH, 44266-2642",77.662,Ravenna, OH, 44266,2642
 William Bruce Elementary School,Eaton Community City,Preble,"Eaton, OH, 45320-1919",91.546,Eaton, OH, 45320,1919
 Brunswick High School,Brunswick City,Medina,"Brunswick, OH, 44212-3617",80.583,Brunswick, OH, 44212,3617
+Midview North Elementary School,Midview Local,Lorain,"Grafton, OH, 44044-1122",NC,Grafton, OH, 44044,1122
 Brush High School,South Euclid-Lyndhurst City,Cuyahoga,"Lyndhurst, OH, 44124-2312",68.344,Lyndhurst, OH, 44124,2312
 Bryan Elementary 2 to 5,Bryan City,Williams,"Bryan, OH, 43506-1686",90.040,Bryan, OH, 43506,1686
 Bryan Middle School/High School,Bryan City,Williams,"Bryan, OH, 43506-1686",70.323,Bryan, OH, 43506,1686
+Bryden Elementary School,Beachwood City,Cuyahoga,"Beachwood, OH, 44122-4162",NC,Beachwood, OH, 44122,4162
 Buchtel High School,Akron City,Summit,"Akron, OH, 44320-2853",46.303,Akron, OH, 44320,2853
 Buckeye Central High School,Buckeye Central Local,Crawford,"New Washington, OH, 44854-9521",84.492,New Washington, OH, 44854,9521
 Buckeye Elementary School,Riverside Local,Lake,"Painesville, OH, 44077-1949",97.034,Painesville, OH, 44077,1949
+Buckeye Elementary School,Salem City,Columbiana,"Salem, OH, 44460-1562",NC,Salem, OH, 44460,1562
 Buckeye High School,Buckeye Local,Medina,"Medina, OH, 44256-9411",83.746,Medina, OH, 44256,9411
 Buckeye Middle School,Columbus City,Franklin,"Columbus, OH, 43207-3742",51.052,Columbus, OH, 43207,3742
 Buckeye Valley Local High School,Buckeye Valley Local,Delaware,"Delaware, OH, 43015-9564",87.876,Delaware, OH, 43015,9564
@@ -363,6 +386,7 @@ Burton Elementary School,Berkshire Local,Geauga,"Burton, OH, 44021-0406",94.516,
 Butler Elementary School,Clear Fork Valley Local,Richland,"Butler, OH, 44822-9675",89.822,Butler, OH, 44822,9675
 Butler Middle School,Arcanum-Butler Local,Darke,"Arcanum, OH, 45304-1381",92.374,Arcanum, OH, 45304,1381
 Butler High School,Vandalia-Butler City,Montgomery,"Vandalia, OH, 45377-2550",79.056,Vandalia, OH, 45377,2550
+Byesville Elementary School,Rolling Hills Local,Guernsey,"Byesville, OH, 43723-1339",NC,Byesville, OH, 43723,1339
 Shaker Hts Middle School,Shaker Heights City,Cuyahoga,"Shaker Heights, OH, 44122-2620",84.177,Shaker Heights, OH, 44122,2620
 C O Harrison Elementary School,Oak Hills Local,Hamilton,"Cincinnati, OH, 45233-4610",100.292,Cincinnati, OH, 45233,4610
 C R Towslee Elementary School,Brunswick City,Medina,"Brunswick, OH, 44212-3617",95.707,Brunswick, OH, 44212,3617
@@ -392,6 +416,7 @@ Cardington-Lincoln High School,Cardington-Lincoln Local,Morrow,"Cardington, OH, 
 Cardington-Lincoln Elementary School,Cardington-Lincoln Local,Morrow,"Cardington, OH, 43315-1121",86.895,Cardington, OH, 43315,1121
 Carey High School,Carey Exempted Village Schools,Wyandot,"Carey, OH, 43316-1282",69.982,Carey, OH, 43316,1282
 Carlisle High School,Carlisle Local,Warren,"Carlisle, OH, 45005-3106",80.865,Carlisle, OH, 45005,3106
+Alden R Brown Elementary School,Carlisle Local,Warren,"Carlisle, OH, 45005-3108",NC,Carlisle, OH, 45005,3108
 Bobby F. Grigsby Intermediate School,Carlisle Local,Warren,"Carlisle, OH, 45005-3110",88.423,Carlisle, OH, 45005,3110
 Louise Troy PreK-5 School,Dayton City,Montgomery,"Dayton, OH, 45408-2528",52.466,Dayton, OH, 45408,2528
 Bloom-Carroll High School,Bloom-Carroll Local,Fairfield,"Carroll, OH, 43112-9661",86.802,Carroll, OH, 43112,9661
@@ -451,6 +476,7 @@ Charles Dickens School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44105-2919",
 Charles L Warstler Elementary School,Plain Local,Stark,"Canton, OH, 44721-3366",99.351,Canton, OH, 44721,3366
 Charles W Eliot School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44128-2427",52.793,Cleveland, OH, 44128,2427
 Charles W Springmyer Elementary School,Oak Hills Local,Hamilton,"Cincinnati, OH, 45248-1505",103.277,Cincinnati, OH, 45248,1505
+Charm Elementary School,East Holmes Local,Holmes,"Charm, OH, 44617-0159",NC,Charm, OH, 44617,0159
 Chase STEM Academy,Toledo City,Lucas,"Toledo, OH, 43611-3348",54.765,Toledo, OH, 43611,3348
 Chase Elementary School,Cincinnati City,Hamilton,"Cincinnati, OH, 45223-2218",68.245,Cincinnati, OH, 45223,2218
 Cherrington Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-3013",95.036,Westerville, OH, 43081,3013
@@ -475,13 +501,17 @@ Clay High School,Clay Local,Scioto,"Portsmouth, OH, 45662-8817",81.084,Portsmout
 Claymont Middle School,Claymont City,Tuscarawas,"Uhrichsville, OH, 44683-1637",77.264,Uhrichsville, OH, 44683,1637
 Claymont High School,Claymont City,Tuscarawas,"Uhrichsville, OH, 44683-1305",79.222,Uhrichsville, OH, 44683,1305
 Clear Fork High School,Clear Fork Valley Local,Richland,"Bellville, OH, 44813-1229",85.251,Bellville, OH, 44813,1229
+Clearcreek Elementary School,Springboro Community City,Warren,"Springboro, OH, 45066-1424",NC,Springboro, OH, 45066,1424
+Amanda-Clearcreek Primary School,Amanda-Clearcreek Local,Fairfield,"Amanda, OH, 43102-9613",NC,Amanda, OH, 43102,9613
 Springboro High School,Springboro Community City,Warren,"Springboro, OH, 45066-1524",90.917,Springboro, OH, 45066,1524
+Clearmount Elementary School,North Canton City,Stark,"North Canton, OH, 44720-3214",NC,North Canton, OH, 44720,3214
 Clearview High School,Clearview Local,Lorain,"Lorain, OH, 44052-5542",72.271,Lorain, OH, 44052,5542
 John Clem Elementary School,Newark City,Licking,"Newark, OH, 43055-4540",79.872,Newark, OH, 43055,4540
 Clermont Northeastern High School,Clermont Northeastern Local,Clermont,"Batavia, OH, 45103-9511",71.042,Batavia, OH, 45103,9511
 Cleveland PreK-6 School,Dayton City,Montgomery,"Dayton, OH, 45420-1943",62.450,Dayton, OH, 45420,1943
 Brookwood Elementary School,Hamilton City,Butler,"Hamilton, OH, 45013-1913",81.867,Hamilton, OH, 45013,1913
 Clinton Elementary School,Columbus City,Franklin,"Columbus, OH, 43202-1244",106.554,Columbus, OH, 43202,1244
+Northwest Primary School,Northwest Local,Stark,"Canal Fulton, OH, 44614-8859",NC,Canal Fulton, OH, 44614,8859
 Clinton-Massie High School,Clinton-Massie Local,Clinton,"Clarksville, OH, 45113-8201",79.616,Clarksville, OH, 45113,8201
 Clough Pike Elementary School,West Clermont Local,Clermont,"Cincinnati, OH, 45245-1715",104.281,Cincinnati, OH, 45245,1715
 Cloverleaf High School,Cloverleaf Local,Medina,"Lodi, OH, 44254-9706",81.986,Lodi, OH, 44254,9706
@@ -552,6 +582,7 @@ Crooksville High School,Crooksville Exempted Village,Perry,"Crooksville, OH, 437
 Crosby Elementary School,Southwest Local,Hamilton,"Harrison, OH, 45030-9207",104.147,Harrison, OH, 45030,9207
 Byrnedale Elementary School,Toledo City,Lucas,"Toledo, OH, 43614-3410",71.216,Toledo, OH, 43614,3410
 Crouse Community Learning Center,Akron City,Summit,"Akron, OH, 44320-3706",56.774,Akron, OH, 44320,3706
+Currie Elementary School,Mathews Local,Trumbull,"Cortland, OH, 44410-9420",NC,Cortland, OH, 44410,9420
 Brookfield Elementary School,Brookfield Local,Trumbull,"Brookfield, OH, 44403-9756",79.950,Brookfield, OH, 44403,9756
 Cuyahoga Falls High School,Cuyahoga Falls City,Summit,"Cuyahoga Falls, OH, 44221-2500",74.192,Cuyahoga Falls, OH, 44221,2500
 Cuyahoga Hts Elementary School,Cuyahoga Heights Local,Cuyahoga,"Cuyahoga Heights, OH, 44125-1043",106.693,Cuyahoga Heights, OH, 44125,1043
@@ -569,6 +600,7 @@ Danbury Elementary School,Danbury Local,Ottawa,"Lakeside Marblehead, OH, 43440-1
 Danbury High School,Danbury Local,Ottawa,"Lakeside Marblehead, OH, 43440-1310",78.963,Lakeside Marblehead, OH, 43440,1310
 Blanchester Intermediate School,Blanchester Local,Clinton,"Blanchester, OH, 45107-7907",91.782,Blanchester, OH, 45107,7907
 Daniel E Morgan School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44106-1033",46.819,Cleveland, OH, 44106,1033
+Academy of Arts and Sciences,Academy of Arts and Sciences,Lorain,"Lorain, OH, 44053-2341",NC,Lorain, OH, 44053,2341
 Danville Elementary School,Danville Local,Knox,"Danville, OH, 43014-0030",86.608,Danville, OH, 43014,0030
 Danville High School,Danville Local,Knox,"Danville, OH, 43014-0030",66.895,Danville, OH, 43014,0030
 Darbydale Elementary School,South-Western City,Franklin,"Grove City, OH, 43123-9661",86.711,Grove City, OH, 43123,9661
@@ -578,6 +610,7 @@ David Anderson Jr/Sr High School,Lisbon Exempted Village,Columbiana,"Lisbon, OH,
 David Smith Elementary School,Delaware City,Delaware,"Delaware, OH, 43015-1229",100.274,Delaware, OH, 43015,1229
 Olentangy Meadows Elementary School,Olentangy Local,Delaware,"Lewis, OH, 43035",104.464,Lewis, OH, 43035,
 Daw Elementary School,Wellsville Local,Columbiana,"Wellsville, OH, 43968-1423",88.710,Wellsville, OH, 43968,1423
+Primary Elementary School,Galion City,Crawford,"Galion, OH, 44833-1115",NC,Galion, OH, 44833,1115
 Dawson-Bryant High School,Dawson-Bryant Local,Lawrence,"Coal Grove, OH, 45638-2994",73.282,Coal Grove, OH, 45638,2994
 Dawson-Bryant Middle School,Dawson-Bryant Local,Lawrence,"Coal Grove, OH, 45638-2994",84.932,Coal Grove, OH, 45638,2994
 Licking Heights North,Licking Heights Local,Licking,"Pataskala, OH, 43062-8767",92.834,Pataskala, OH, 43062,8767
@@ -632,6 +665,8 @@ Dowds Elementary School,Shelby City,Richland,"Shelby, OH, 44875-1862",95.408,She
 Chippewa Middle School,Chippewa Local,Wayne,"Doylestown, OH, 44230-1334",98.348,Doylestown, OH, 44230,1334
 Indian Hill Elementary School,Indian Hill Exempted Village,Hamilton,"Cincinnati, OH, 45243-3335",109.381,Cincinnati, OH, 45243,3335
 Driscoll Elementary School,Centerville City,Montgomery,"Dayton, OH, 45429-6024",94.796,Dayton, OH, 45429,6024
+Dueber Elementary School,Canton City,Stark,"Canton, OH, 44706-1214",NC,Canton, OH, 44706,1214
+Dunbar Elementary School,Tallmadge City,Summit,"Tallmadge, OH, 44278-3103",NC,Tallmadge, OH, 44278,3103
 Dunbar Early College High School,Dayton City,Montgomery,"Dayton, OH, 45408-2480",39.637,Dayton, OH, 45408,2480
 Duncan Falls Elementary School,Franklin Local,Muskingum,"Duncan Falls, OH, 43734-0398",91.985,Duncan Falls, OH, 43734,0398
 Philo Junior High School,Franklin Local,Muskingum,"Philo, OH, 43771-0178",84.769,Philo, OH, 43771,0178
@@ -645,12 +680,14 @@ East Elementary School,Upper Sandusky Exempted Village,Wyandot,"Upper Sandusky, 
 East Canton Elementary School,Osnaburg Local,Stark,"East Canton, OH, 44730-1248",93.818,East Canton, OH, 44730,1248
 East Canton High School,Osnaburg Local,Stark,"East Canton, OH, 44730-1248",72.464,East Canton, OH, 44730,1248
 Midview West Elementary School,Midview Local,Lorain,"Grafton, OH, 44044-1122",98.111,Grafton, OH, 44044,1122
+Wyandot Early Childhood School,Lakota Local,Butler,"Liberty, OH, 45044-9377",NC,Liberty, OH, 45044,9377
 Endeavor Elementary School,Lakota Local,Butler,"West, OH, 45069",96.241,West, OH, 45069,
 East Clark,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44110-3701",45.374,Cleveland, OH, 44110,3701
 East Clinton High School,East Clinton Local,Clinton,"Sabina, OH, 45169",68.632,Sabina, OH, 45169,
 East Columbus Elementary School,Columbus City,Franklin,"Columbus, OH, 43219",61.250,Columbus, OH, 43219,
 East End Elementary School,Wilmington City,Clinton,"Wilmington, OH, 45177-1933",81.439,Wilmington, OH, 45177,1933
 Barack Obama School,Maple Heights City,Cuyahoga,"Maple Heights, OH, 44137-3700",62.120,Maple Heights, OH, 44137,3700
+Abraham Lincoln School,Maple Heights City,Cuyahoga,"Maple Heights, OH, 44137-4407",NC,Maple Heights, OH, 44137,4407
 J.F. Kennedy School,Maple Heights City,Cuyahoga,"Maple Heights, OH, 44137-4053",69.117,Maple Heights, OH, 44137,4053
 Toledo Early College High School,Toledo City,Lucas,"Toledo, OH, 43606-3523",96.812,Toledo, OH, 43606,3523
 East Knox Junior/Senior High School,East Knox Local,Knox,"Howard, OH, 43028-9362",74.409,Howard, OH, 43028,9362
@@ -691,6 +728,7 @@ Heritage Middle School,Newark City,Licking,"Newark, OH, 43055-6852",81.543,Newar
 Hillview Elementary School,Newark City,Licking,"Newark, OH, 43055-9602",86.209,Newark, OH, 43055,9602
 Legend Elementary,Newark City,Licking,"Newark, OH, 43055-1999",96.843,Newark, OH, 43055,1999
 Liberty Middle School,Newark City,Licking,"Newark, OH, 43055",86.126,Newark, OH, 43055,
+Centerville Primary Village South,Centerville City,Montgomery,"Centerville, OH, 45458-2150",NC,Centerville, OH, 45458,2150
 Toni Wofford Morrison ES,Lorain City,Lorain,"Lorain, OH, 44052",62.018,Lorain, OH, 44052,
 Helen Steiner Rice ES,Lorain City,Lorain,"Lorain, OH, 44055-3823",53.722,Lorain, OH, 44055,3823
 Madison Park Elementary,Trotwood-Madison City,Montgomery,"Trotwood, OH, 45426-3324",61.734,Trotwood, OH, 45426,3324
@@ -699,16 +737,21 @@ Eakin Elementary School,Columbus City,Franklin,"Columbus, OH, 43228-3008",49.761
 East Elementary School,New Philadelphia City,Tuscarawas,"New Philadelphia, OH, 44663-2959",87.405,New Philadelphia, OH, 44663,2959
 East Elementary School,Mount Vernon City,Knox,"Mount Vernon, OH, 43050-3651",91.042,Mount Vernon, OH, 43050,3651
 East Elementary School,Dover City,Tuscarawas,"Dover, OH, 44622-1345",97.073,Dover, OH, 44622,1345
+Hollingsworth East Elementary School,Eaton Community City,Preble,"Eaton, OH, 45320-1919",NC,Eaton, OH, 45320,1919
 "Dayton Early College Academy, Inc","Dayton Early College Academy, Inc",Montgomery,"Dayton, OH, 45469-0001",83.654,Dayton, OH, 45469,0001
 Douglas MacArthur,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44135-1049",82.043,Cleveland, OH, 44135,1049
 Orange High School,Olentangy Local,Delaware,"Lewis, OH, 43035-9300",96.347,Lewis, OH, 43035,9300
+St. Marys East Primary School,St Marys City,Auglaize,"Saint Marys, OH, 45885-1840",NC,Saint Marys, OH, 45885,1840
 Fort Recovery Middle School,Fort Recovery Local,Mercer,"Fort Recovery, OH, 45846-9746",88.086,Fort Recovery, OH, 45846,9746
 Mt. Pleasant Elementary School,Lancaster City,Fairfield,"Lancaster, OH, 43130-2580",85.442,Lancaster, OH, 43130,2580
 Greenville Intermediate School,Greenville City,Darke,"Greenville, OH, 45331-2029",84.543,Greenville, OH, 45331,2029
 Chesapeake Middle School,Chesapeake Union Exempted Village,Lawrence,"Chesapeake, OH, 45619-7031",79.351,Chesapeake, OH, 45619,7031
+Celina Primary School,Celina City,Mercer,"Celina, OH, 45822-1543",NC,Celina, OH, 45822,1543
+Waverly Primary School,Waverly City,Pike,"Waverly, OH, 45690",NC,Waverly, OH, 45690,
 Ginn Academy,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44110-2421",39.672,Cleveland, OH, 44110,2421
 East Elementary School,Urbana City,Champaign,"Urbana, OH, 43078-1747",79.702,Urbana, OH, 43078,1747
 East Elementary School,Athens City,Athens,"Athens, OH, 45701-1926",99.772,Athens, OH, 45701,1926
+East Elementary School,Newcomerstown Exempted Village,Tuscarawas,"Newcomerstown, OH, 43832-1268",NC,Newcomerstown, OH, 43832,1268
 Miami Trace Elementary School,Miami Trace Local,Fayette,"Washington, OH, 43160-9184",94.537,Washington, OH, 43160,9184
 Fairless Elementary School,Fairless Local,Stark,"Navarre, OH, 44662-9486",95.182,Navarre, OH, 44662,9486
 East Community Learning Center,Akron City,Summit,"Akron, OH, 44305-4222",47.571,Akron, OH, 44305,4222
@@ -726,6 +769,7 @@ Claymont Elementary School,Claymont City,Tuscarawas,"Uhrichsville, OH, 44683-121
 Eastview Elementary School,Madison Local,Richland,"Mansfield, OH, 44905-1632",94.073,Mansfield, OH, 44905,1632
 Eastview Elementary School,Avon Lake City,Lorain,"Avon Lake, OH, 44012-1932",108.010,Avon Lake, OH, 44012,1932
 Revere Middle School,Revere Local,Summit,"Bath, OH, 44210-0339",102.127,Bath, OH, 44210,0339
+Eastwood Elementary School,Oberlin City Schools,Lorain,"Oberlin, OH, 44074-1771",NC,Oberlin, OH, 44074,1771
 Eastwood I High School,Eastwood Local,Wood,"Pemberville, OH, 43450-9626",85.708,Pemberville, OH, 43450,9626
 Lee Eaton Elementary School,Nordonia Hills City,Summit,"Northfield, OH, 44067-1411",98.219,Northfield, OH, 44067,1411
 Eaton High School,Eaton Community City,Preble,"Eaton, OH, 45320-8501",86.475,Eaton, OH, 45320,8501
@@ -749,6 +793,7 @@ Sandy Valley Middle School,Sandy Valley Local,Stark,"Magnolia, OH, 44643-8324",8
 Edison Elementary School,Willoughby-Eastlake City,Lake,"Willoughby, OH, 44094-4376",88.301,Willoughby, OH, 44094,4376
 Horizon Science Academy Elementary School,Horizon Science Academy Elementary School,Franklin,"Columbus, OH, 43231-6033",68.552,Columbus, OH, 43231,6033
 KIPP Columbus,KIPP Columbus,Franklin,"Columbus, OH, 43224-4616",67.917,Columbus, OH, 43224,4616
+Shawnee Elementary,Huron City Schools,Erie,"Huron, OH, 44839-1871",NC,Huron, OH, 44839,1871
 Anna Marie Ayers Elementary School,Martins Ferry City,Belmont,"Martins, OH, 43935-1588",97.484,Martins, OH, 43935,1588
 Horizon Science Academy Denison Elementary School,Horizon Science Academy Denison Elementary School,Cuyahoga,"Cleveland, OH, 44113-4230",50.751,Cleveland, OH, 44113,4230
 Edison Elementary School,Ashland City,Ashland,"Ashland, OH, 44805-1116",79.831,Ashland, OH, 44805,1116
@@ -816,6 +861,7 @@ Euclid Central Middle School,Euclid City,Cuyahoga,"Euclid, OH, 44117-1522",59.51
 Euclid Park Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44112-1222",50.398,Cleveland, OH, 44112,1222
 Ruskin PreK-6 School,Dayton City,Montgomery,"Dayton, OH, 45410-1556",67.543,Dayton, OH, 45410,1556
 Euclid High School,Euclid City,Cuyahoga,"Euclid, OH, 44123-2033",62.887,Euclid, OH, 44123,2033
+Evamere Elementary School,Hudson City,Summit,"Hudson, OH, 44236-3150",NC,Hudson, OH, 44236,3150
 Gallia Academy Middle School,Gallipolis City,Gallia,"Gallipolis, OH, 45631-1109",76.640,Gallipolis, OH, 45631,1109
 Evendale Elementary School,Princeton City,Hamilton,"Cincinnati, OH, 45241-3206",95.276,Cincinnati, OH, 45241,3206
 Evening Street Elementary School,Worthington City,Franklin,"Worthington, OH, 43085-3048",106.572,Worthington, OH, 43085,3048
@@ -833,6 +879,7 @@ Fairfield High School,Fairfield City,Butler,"Fairfield, OH, 45014-2100",70.203,F
 Fairfield Local High School,Fairfield Local,Highland,"Leesburg, OH, 45135-8601",77.468,Leesburg, OH, 45135,8601
 Bremen Elementary School,Fairfield Union Local,Fairfield,"Bremen, OH, 43107-1149",99.111,Bremen, OH, 43107,1149
 Fairfield Union High School,Fairfield Union Local,Fairfield,"Lancaster, OH, 43130-9331",77.868,Lancaster, OH, 43130,9331
+Fairland East Elementary School,Fairland Local,Lawrence,"Proctorville, OH, 45669-8130",NC,Proctorville, OH, 45669,8130
 Fairland High School,Fairland Local,Lawrence,"Proctorville, OH, 45669-9408",78.824,Proctorville, OH, 45669,9408
 Fairland Middle School,Fairland Local,Lawrence,"Proctorville, OH, 45669-8771",96.798,Proctorville, OH, 45669,8771
 Judith A Resnik Community Learning Center,Akron City,Summit,"Akron, OH, 44313-6251",86.828,Akron, OH, 44313,6251
@@ -881,8 +928,10 @@ Jacob Coy Middle School,Beavercreek City,Greene,"Xenia, OH, 45385-7119",96.723,X
 Horizon Science Academy Lorain,Horizon Science Academy Lorain,Lorain,"Lorain, OH, 44052-5223",68.385,Lorain, OH, 44052,5223
 Horizon Science Academy Dayton High School,Horizon Science Academy Dayton High School,Montgomery,"Dayton, OH, 45415-3517",52.560,Dayton, OH, 45415,3517
 Fernway Elementary School,Shaker Heights City,Cuyahoga,"Shaker Heights, OH, 44120-3312",96.152,Shaker Heights, OH, 44120,3312
+Riley Elementary School,Fostoria City,Seneca,"Fostoria, OH, 44830-1970",NC,Fostoria, OH, 44830,1970
 Field High School,Field Local,Portage,"Mogadore, OH, 44260-9715",72.912,Mogadore, OH, 44260,9715
 Field Middle School,Field Local,Portage,"Mogadore, OH, 44260-9788",90.293,Mogadore, OH, 44260,9788
+Cherry Hill Primary,Washington Court House City,Fayette,"Washington, OH, 43160-1060",NC,Washington, OH, 43160,1060
 Belle Aire Intermediate,Washington Court House City,Fayette,"Washington, OH, 43160-2465",76.781,Washington, OH, 43160,2465
 Hubbard Mastery School,Columbus City,Franklin,"Columbus, OH, 43215-6415",58.100,Columbus, OH, 43215,6415
 Struthers Middle School,Struthers City,Mahoning,"Struthers, OH, 44471-1666",79.657,Struthers, OH, 44471,1666
@@ -896,7 +945,9 @@ Firelands Elementary School,Firelands Local,Lorain,"Oberlin, OH, 44074-9628",79.
 Firelands High School,Firelands Local,Lorain,"Oberlin, OH, 44074-9628",81.993,Oberlin, OH, 44074,9628
 Firestone High School,Akron City,Summit,"Akron, OH, 44313-6432",69.848,Akron, OH, 44313,6432
 Firestone Park Elementary School,Akron City,Summit,"Akron, OH, 44301-2163",71.913,Akron, OH, 44301,2163
+Evolve Academy,Medina City SD,Medina,"Medina, OH, 44256-3691",NC,Medina, OH, 44256,3691
 South Gallia Middle School,Gallia County Local,Gallia,"Crown City, OH, 45623-8000",64.837,Crown City, OH, 45623,8000
+Olmsted Falls Early Childhood Center,Olmsted Falls City,Cuyahoga,"Olmsted, OH, 44138-1203",NC,Olmsted, OH, 44138,1203
 Bucyrus Elementary School,Bucyrus City,Crawford,"Bucyrus, OH, 44820-2460",78.718,Bucyrus, OH, 44820,2460
 Rittman Middle School,Rittman Exempted Village,Wayne,"Rittman, OH, 44270-1280",82.164,Rittman, OH, 44270,1280
 Wapakoneta Elementary,Wapakoneta City,Auglaize,"Wapakoneta, OH, 45895-1247",94.513,Wapakoneta, OH, 45895,1247
@@ -909,10 +960,12 @@ Fairborn Primary School,Fairborn City,Greene,"Fairborn, OH, 45324-3435",79.808,F
 North College Hill Middle School,North College Hill City,Hamilton,"Cincinnati, OH, 45239-4810",59.054,Cincinnati, OH, 45239,4810
 Reading Community Middle School,Reading Community City,Hamilton,"Reading, OH, 45215-3345",81.066,Reading, OH, 45215,3345
 Middleburg Heights Junior High,Berea City,Cuyahoga,"Middleburg Heights, OH, 44130-3561",77.293,Middleburg Heights, OH, 44130,3561
+Riverdale Elementary School,Riverdale Local,Hancock,"Mt Blanchard, OH, 45867-9783",NC,Mt Blanchard, OH, 45867,9783
 Northeast Ohio College Preparatory School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44113-4467",66.739,Cleveland, OH, 44113,4467
 Forest Elementary School,Troy City,Miami,"Troy, OH, 45373-3616",92.507,Troy, OH, 45373,3616
 Forest Hill Community Learning Center,Akron City,Summit,"Akron, OH, 44310-3425",66.898,Akron, OH, 44310,3425
 South Bloomfield Elementary,Teays Valley Local,Pickaway,"South, OH, 43103-9239",97.778,South, OH, 43103,9239
+Imagine Akron Academy,Office of School Sponsorship,Franklin,"Akron, OH, 44320-4000",NC,Akron, OH, 44320,4000
 Forest Park Elementary School,Columbus City,Franklin,"Columbus, OH, 43229-4476",65.619,Columbus, OH, 43229,4476
 The Richland School of Academic Arts,North Central Ohio ESC,Seneca,"Ontario, OH, 44906-2700",88.795,Ontario, OH, 44906,2700
 Graham Expeditionary Middle School,Graham Expeditionary Middle School,Franklin,"Columbus, OH, 43214-3167",72.171,Columbus, OH, 43214,3167
@@ -938,6 +991,7 @@ Fostoria Junior/Senior High School,Fostoria City,Seneca,"Fostoria, OH, 44830-145
 Patriot Preparatory Academy,Patriot Preparatory Academy,Franklin,"Columbus, OH, 43227-2113",66.655,Columbus, OH, 43227,2113
 North Central Academy,North Central Ohio ESC,Seneca,"Tiffin, OH, 44883-2529",51.068,Tiffin, OH, 44883,2529
 Akros Middle School,Akros Middle School,Summit,"Akron, OH, 44304-1305",58.558,Akron, OH, 44304,1305
+Quest Community School,Office of School Sponsorship,Franklin,"Parma, OH, 44130-9313",NC,Parma, OH, 44130,9313
 Reynoldsburg High School eSTEM,Reynoldsburg City,Franklin,"Reynoldsburg, OH, 43068-1411",83.796,Reynoldsburg, OH, 43068,1411
 Adena Elementary School,Adena Local,Ross,"Frankfort, OH, 45628-9503",83.329,Frankfort, OH, 45628,9503
 General Rosecrans Elementary,Big Walnut Local,Delaware,"Sunbury, OH, 43074",95.169,Sunbury, OH, 43074,
@@ -961,6 +1015,7 @@ Franklin Elementary School,Elyria City Schools,Lorain,"Elyria, OH, 44035-7037",6
 Franklin Monroe High School,Franklin Monroe Local,Darke,"Pitsburg, OH, 45358-0038",86.469,Pitsburg, OH, 45358,0038
 Metro Early College High School,Metro Early College High School,Franklin,"Columbus, OH, 43210-1015",93.728,Columbus, OH, 43210,1015
 Eastwood Elementary School,Warrensville Heights City,Cuyahoga,"Warrensville, OH, 44122-7038",51.526,Warrensville, OH, 44122,7038
+John Dewey Elementary School,Warrensville Heights City,Cuyahoga,"Warrensville, OH, 44128-5142",NC,Warrensville, OH, 44128,5142
 Frazer Elementary School,Plain Local,Stark,"Canton, OH, 44709-1533",101.382,Canton, OH, 44709,1533
 Mapleton Middle School,Mapleton Local,Ashland,"Ashland, OH, 44805-9571",81.420,Ashland, OH, 44805,9571
 Frazeysburg Elementary School,Tri-Valley Local,Muskingum,"Frazeysburg, OH, 43822-0250",90.479,Frazeysburg, OH, 43822,0250
@@ -1004,6 +1059,7 @@ Broadway Academy,Broadway Academy,Cuyahoga,"Cleveland, OH, 44127-1691",44.646,Cl
 Evergreen Elementary School,Evergreen Local,Fulton,"Metamora, OH, 43540-9741",91.775,Metamora, OH, 43540,9741
 Heath Middle School,Heath City,Licking,"Heath, OH, 43056-1534",86.891,Heath, OH, 43056,1534
 Fulton Elementary School,Springfield City School District,Clark,"Springfield, OH, 45506-2060",60.481,Springfield, OH, 45506,2060
+Furry Elementary School,Perkins Local,Erie,"Sandusky, OH, 44870-5744",NC,Sandusky, OH, 44870,5744
 Harrison Street Elementary School,Big Walnut Local,Delaware,"Sunbury, OH, 43074-9226",89.264,Sunbury, OH, 43074,9226
 Galion High School,Galion City,Crawford,"Galion, OH, 44833-1115",76.455,Galion, OH, 44833,1115
 Galion Middle School,Galion City,Crawford,"Galion, OH, 44833-1115",84.574,Galion, OH, 44833,1115
@@ -1013,6 +1069,7 @@ Garaway High School,Garaway Local,Tuscarawas,"Sugarcreek, OH, 44681-9309",83.225
 Citizens Academy East,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44108-2422",79.041,Cleveland, OH, 44108,2422
 Baltic Elementary School,Garaway Local,Tuscarawas,"Baltic, OH, 43804-0266",78.447,Baltic, OH, 43804,0266
 Garfield Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44111-4972",62.026,Cleveland, OH, 44111,4972
+Van Wert Early Childhood Center,Van Wert City,Van Wert,"Van Wert, OH, 45891-2655",NC,Van Wert, OH, 45891,2655
 Garfield Elementary School,Mentor Exempted Village,Lake,"Mentor, OH, 44060-4487",94.136,Mentor, OH, 44060,4487
 Garfield Elementary School,Medina City SD,Medina,"Medina, OH, 44256-2602",85.463,Medina, OH, 44256,2602
 Garfield Elementary School,Toledo City,Lucas,"Toledo, OH, 43605-1678",54.914,Toledo, OH, 43605,1678
@@ -1023,10 +1080,12 @@ Garfield Elementary School,Wellsville Local,Columbiana,"Wellsville, OH, 43968-12
 Graham Primary School,Graham Primary School,Franklin,"Columbus, OH, 43214-3167",66.293,Columbus, OH, 43214,3167
 Village Preparatory School:: Woodland Hills Campus,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44105-1627",64.455,Cleveland, OH, 44105,1627
 James A Garfield Elementary School,James A Garfield Local,Portage,"Garrettsville, OH, 44231-9205",91.908,Garrettsville, OH, 44231,9205
+Garfield Elementary School,Heath City,Licking,"Heath, OH, 43056-1206",NC,Heath, OH, 43056,1206
 The Haley School,The Haley School,Cuyahoga,"Warrensville Heights, OH, 44128-5948",60.220,Warrensville Heights, OH, 44128,5948
 Garfield Middle School,Hamilton City,Butler,"Hamilton, OH, 45011-4222",67.014,Hamilton, OH, 45011,4222
 James A Garfield High School,James A Garfield Local,Portage,"Garrettsville, OH, 44231-9205",81.505,Garrettsville, OH, 44231,9205
 Massillon Intermediate School,Massillon City,Stark,"Massillon, OH, 44647-5910",79.141,Massillon, OH, 44647,5910
+Kleptz Early Childhood Learning Center,Northmont City,Montgomery,"Clayton, OH, 45315-9508",NC,Clayton, OH, 45315,9508
 Garfield High School,Akron City,Summit,"Akron, OH, 44314-2204",53.339,Akron, OH, 44314,2204
 Lake Erie College Preparatory School,Lake Erie College Preparatory School,Cuyahoga,"Cleveland, OH, 44110-3433",46.239,Cleveland, OH, 44110,3433
 Garfield Heights High School,Garfield Heights City Schools,Cuyahoga,"Garfield Heights, OH, 44125-2501",58.105,Garfield Heights, OH, 44125,2501
@@ -1078,10 +1137,12 @@ Glendale Primary School,Bedford City,Cuyahoga,"Bedford, OH, 44146-3236",70.051,B
 Glenford Elementary School,Northern Local,Perry,"Glenford, OH, 43739-9746",100.967,Glenford, OH, 43739,9746
 John Glenn High School,East Muskingum Local,Muskingum,"New Concord, OH, 43762-9762",83.311,New Concord, OH, 43762,9762
 Glenville High School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44108-2603",44.418,Cleveland, OH, 44108,2603
+Glenwood Elementary School,Rossford Exempted Village,Wood,"Perrysburg, OH, 43551-4019",NC,Perrysburg, OH, 43551,4019
 Glenwood Elementary School,Toledo City,Lucas,"Toledo, OH, 43610-1658",51.158,Toledo, OH, 43610,1658
 Glenwood High School,New Boston Local,Scioto,"New Boston, OH, 45662",55.035,New Boston, OH, 45662,
 Trimble High School,Trimble Local,Athens,"Glouster, OH, 45732-9335",71.863,Glouster, OH, 45732,9335
 Glover Community Learning Center,Akron City,Summit,"Akron, OH, 44306-1946",71.260,Akron, OH, 44306,1946
+Goldwood Primary Elementary School,Rocky River City,Cuyahoga,"Rocky River, OH, 44116-3918",NC,Rocky River, OH, 44116,3918
 Gordon Dewitt Elementary School,Cuyahoga Falls City,Summit,"Cuyahoga Falls, OH, 44221-3847",92.458,Cuyahoga Falls, OH, 44221,3847
 H Barbara Booker Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44102-4316",43.706,Cleveland, OH, 44102,4316
 Fayette Elementary School,Fayette Local,Fulton,"Fayette, OH, 43521-9462",91.790,Fayette, OH, 43521,9462
@@ -1089,6 +1150,7 @@ Cincinnati Technology Academy,Cincinnati Technology Academy,Hamilton,"Cincinnati
 Fayette Jr/Sr High School,Fayette Local,Fulton,"Fayette, OH, 43521-9462",69.600,Fayette, OH, 43521,9462
 Franklinton Preparatory Academy,Franklinton Preparatory Academy,Franklin,"Columbus, OH, 43222-1132",55.821,Columbus, OH, 43222,1132
 Gorrell Elementary School,Massillon City,Stark,"Massillon, OH, 44647-6077",93.109,Massillon, OH, 44647,6077
+Marr/Cook Elementary School,Goshen Local,Clermont,"Goshen, OH, 45122-9273",NC,Goshen, OH, 45122,9273
 Goshen High School,Goshen Local,Clermont,"Goshen, OH, 45122-9200",80.058,Goshen, OH, 45122,9200
 Trebein Elementary School,Beavercreek City,Greene,"Xenia, OH, 45385-7119",109.031,Xenia, OH, 45385,7119
 Global Impact STEM Academy,Global Impact STEM Academy,Clark,"Springfield, OH, 45505-1941",84.452,Springfield, OH, 45505,1941
@@ -1122,6 +1184,7 @@ Imagine Leadership Academy,North Central Ohio ESC,Seneca,"Akron, OH, 44320-3826"
 Imagine Columbus Primary School,North Central Ohio ESC,Seneca,"Columbus, OH, 43229-6612",59.017,Columbus, OH, 43229,6612
 Grant Elementary School,Lakewood City,Cuyahoga,"Lakewood, OH, 44107-2209",92.962,Lakewood, OH, 44107,2209
 East Preparatory Academy,East Preparatory Academy,Cuyahoga,"Cleveland, OH, 44103-1129",55.556,Cleveland, OH, 44103,1129
+Provost Academy Ohio,Provost Academy Ohio,Franklin,"Columbus, OH, 43215-7037",NC,Columbus, OH, 43215,7037
 Dayton SMART Elementary School,Dayton SMART Elementary School,Montgomery,"Dayton, OH, 45410-1168",57.500,Dayton, OH, 45410,1168
 Grant Elementary School,Willoughby-Eastlake City,Lake,"Willoughby, OH, 44094-6580",83.271,Willoughby, OH, 44094,6580
 East Academy,East Academy,Cuyahoga,"Cleveland, OH, 44110-3105",57.000,Cleveland, OH, 44110,3105
@@ -1144,6 +1207,7 @@ Green Springs Elementary School,Clyde-Green Springs Exempted Village,Sandusky,"G
 Green Valley Elementary School,Parma City,Cuyahoga,"Parma, OH, 44134-6518",94.681,Parma, OH, 44134,6518
 Greenbriar Middle School,Parma City,Cuyahoga,"Parma, OH, 44130-2247",76.330,Parma, OH, 44130,2247
 Green Middle School,Green Local,Wayne,"Smithville, OH, 44677",88.101,Smithville, OH, 44677,
+United Preparatory Academy,United Preparatory Academy,Franklin,"Columbus, OH, 43215-1310",NC,Columbus, OH, 43215,1310
 Greeneview Middle School,Greeneview Local,Greene,"Jamestown, OH, 45335-1522",80.888,Jamestown, OH, 45335,1522
 Greeneview High School,Greeneview Local,Greene,"Jamestown, OH, 45335-1518",76.982,Jamestown, OH, 45335,1518
 Greenfield Elementary School,Greenfield Exempted Village,Highland,"Greenfield, OH, 45123-1373",77.795,Greenfield, OH, 45123,1373
@@ -1156,6 +1220,7 @@ Greentown Intermediate School,North Canton City,Stark,"North Canton, OH, 44720-4
 Greenview Upper Elementary School,South Euclid-Lyndhurst City,Cuyahoga,"South Euclid, OH, 44121-4211",77.261,South Euclid, OH, 44121,4211
 Greenville Senior High School,Greenville City,Darke,"Greenville, OH, 45331-2383",71.935,Greenville, OH, 45331,2383
 Greenville Junior High School,Greenville City,Darke,"Greenville, OH, 45331-1466",79.693,Greenville, OH, 45331,1466
+Greenwood Early Learning Center,Green Local,Summit,"Green, OH, 44232-0218",NC,Green, OH, 44232,0218
 Grill Elementary School,Norton City,Summit,"Clinton, OH, 44216-9328",91.006,Clinton, OH, 44216,9328
 Mechanicsburg Middle School,Mechanicsburg Exempted Village,Champaign,"Mechanicsburg, OH, 43044-1003",94.610,Mechanicsburg, OH, 43044,1003
 Grove Patterson Academy Elementary School,Toledo City,Lucas,"Toledo, OH, 43606-1705",86.298,Toledo, OH, 43606,1705
@@ -1180,21 +1245,28 @@ Hamersville Elementary School,Western Brown Local,Brown,"Hamersville, OH, 45130-
 Hamilton STEM Academy (K-6),Columbus City,Franklin,"Columbus, OH, 43211-2115",53.899,Columbus, OH, 43211,2115
 T2 Honors Academy,T2 Honors Academy,Cuyahoga,"Warrensville Heights, OH, 44128-4236",50.914,Warrensville Heights, OH, 44128,4236
 Hamilton Elementary School,Hamilton Local,Franklin,"Columbus, OH, 43207-4737",93.607,Columbus, OH, 43207,4737
+Norwood Conversion Community School,Norwood City,Hamilton,"Norwood, OH, 45212-3806",NC,Norwood, OH, 45212,3806
 Lakeshore Intergenerational School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44119-2615",79.583,Cleveland, OH, 44119,2615
 Cleveland High School for the Digital Arts,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44114-1137",48.039,Cleveland, OH, 44114,1137
 PACT @ JFK,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44128-7050",42.599,Cleveland, OH, 44128,7050
 Bard Early College Cleveland,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44135-1650",72.918,Cleveland, OH, 44135,1650
+Steel Academy,Steel Academy,Summit,"Akron, OH, 44310-2656",NC,Akron, OH, 44310,2656
 Cincinnati Generation Academy,Cincinnati Generation Academy,Hamilton,"Denver, CO, 80203",41.847,Denver, CO, 80203,
 Leverette Elementary School,Toledo City,Lucas,"Toledo, OH, 43608-1268",42.787,Toledo, OH, 43608,1268
+Valley STEM+ME2 Academy,Valley STEM+ME2 Academy,Mahoning,"Canfield, OH, 44406-7011",NC,Canfield, OH, 44406,7011
 Hamilton Township High School,Hamilton Local,Franklin,"Columbus, OH, 43207-4742",81.720,Columbus, OH, 43207,4742
+Hamilton-Maineville Elementary School,Little Miami Local,Warren,"Maineville, OH, 45039-9644",NC,Maineville, OH, 45039,9644
 Hanby Building Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-2136",90.890,Westerville, OH, 43081,2136
+Rosa Parks Early Learning Center,Dayton City,Montgomery,"Dayton, OH, 45406-3552",NC,Dayton, OH, 45406,3552
 E3agle Academy,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44128-7050",39.364,Cleveland, OH, 44128,7050
 Hancock Elementary School,Sandusky City,Erie,"Sandusky, OH, 44870-4944",62.350,Sandusky, OH, 44870,4944
 Hannah Gibbons-Nottingham Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44110-2813",46.384,Cleveland, OH, 44110,2813
 Hannan Trace Elementary School,Gallia County Local,Gallia,"Crown City, OH, 45623-9270",89.830,Crown City, OH, 45623,9270
 South Gallia High School,Gallia County Local,Gallia,"Crown City, OH, 45623-8000",64.901,Crown City, OH, 45623,8000
 River Elementary School,Switzerland of Ohio Local,Monroe,"Hannibal, OH, 43931-0056",73.601,Hannibal, OH, 43931,0056
+Harter Elementary School,Canton City,Stark,"Canton, OH, 44708-5636",NC,Canton, OH, 44708,5636
 Kenton Elementary School,Kenton City,Hardin,"Kenton, OH, 43326-1679",87.987,Kenton, OH, 43326,1679
+School of Innovation,Willoughby-Eastlake City,Lake,"Willoughby, OH, 44094-8446",NC,Willoughby, OH, 44094,8446
 New Albany 2 - 8 Learning Facility,New Albany-Plain Local,Franklin,"New, OH, 43054-2500",100.104,New, OH, 43054,2500
 Hardin Houston Elementary School,Hardin-Houston Local,Shelby,"Houston, OH, 45333-8630",92.059,Houston, OH, 45333,8630
 Woodmore Middle School,Woodmore Local,Sandusky,"Woodville, OH, 43469-1071",92.193,Woodville, OH, 43469,1071
@@ -1208,9 +1280,14 @@ Harding High School,Marion City,Marion,"Marion, OH, 43302-4523",56.569,Marion, O
 Warren G Harding High School,Warren City,Trumbull,"Warren, OH, 44483-5109",57.246,Warren, OH, 44483,5109
 Zenith Academy West,Zenith Academy West,Franklin,"Columbus, OH, 43204-1213",54.293,Columbus, OH, 43204,1213
 Clark Preparatory Academy,Clark Preparatory Academy,Clark,"Springfield, OH, 45506-2101",48.056,Springfield, OH, 45506,2101
+Foxfire East Academy,Rolling Hills Local,Guernsey,"Cambridge, OH, 43725-8909",NC,Cambridge, OH, 43725,8909
+Stonebrook Montessori,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44108-2970",NC,Cleveland, OH, 44108,2970
 Ohio Valley Energy Technology Academy,Buckeye Local,Jefferson,"Rayland, OH, 43943-7847",48.596,Rayland, OH, 43943,7847
+Harlan-Butlerville Elementary School,Little Miami Local,Warren,"Blanchester, OH, 45107-9354",NC,Blanchester, OH, 45107,9354
+Citizens Academy Southeast,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44128-1736",NC,Cleveland, OH, 44128,1736
 Harman Elementary School,Oakwood City,Montgomery,"Dayton, OH, 45419-3850",108.540,Dayton, OH, 45419,3850
 Harmar Elementary School,Marietta City,Washington,"Marietta, OH, 45750-2823",84.950,Marietta, OH, 45750,2823
+Miller Elementary School,Aurora City,Portage,"Aurora, OH, 44202-7815",NC,Aurora, OH, 44202,7815
 Ledgemont Elementary,Berkshire Local,Geauga,"Thompson, OH, 44086-9737",79.709,Thompson, OH, 44086,9737
 iSTEM Geauga Early College High School,iSTEM Geauga Early College High School,Lake,"Concord, OH, 44077-9179",93.333,Concord, OH, 44077,9179
 Harris Elementary School,Akron City,Summit,"Akron, OH, 44310-2011",60.769,Akron, OH, 44310,2011
@@ -1232,11 +1309,24 @@ Hatton CLC,Akron City,Summit,"Akron, OH, 44312-2127",85.810,Akron, OH, 44312,212
 Hawkins Elementary School,Toledo City,Lucas,"Toledo, OH, 43615-2826",65.575,Toledo, OH, 43615,2826
 Hawthorne Elementary School,Westerville City,Franklin,"Columbus, OH, 43231-4044",83.603,Columbus, OH, 43231,4044
 Hayes Elementary School,Fremont City,Sandusky,"Fremont, OH, 43420-2815",86.985,Fremont, OH, 43420,2815
+Beacon Academy,Beacon Academy,Stark,"Canton, OH, 44706-5200",NC,Canton, OH, 44706,5200
+Bridge Gate Community School,Bridge Gate Community School,Franklin,"Columbus, OH, 43228-5102",NC,Columbus, OH, 43228,5102
+East Branch Preparatory AcademydbaWright Preparatory Academy,East Branch Preparatory AcademydbaWright Preparatory Academy,Stark,"Canton, OH, 44705-1956",NC,Canton, OH, 44705,1956
 Hillsdale Elementary School,Hillsdale Local,Ashland,"Hayesville, OH, 44838",96.656,Hayesville, OH, 44838,
+Village Preparatory School Willard,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44102-3706",NC,Cleveland, OH, 44102,3706
+Northgate Intermediate,Columbus City,Franklin,"Columbus, OH, 43229-7019",NC,Columbus, OH, 43229,7019
+Allen East Middle School,Allen East Local,Allen,"Harrod, OH, 45850-9485",NC,Harrod, OH, 45850,9485
+Southview Middle School,Lorain City,Lorain,"Lorain, OH, 44055-3516",NC,Lorain, OH, 44055,3516
 Hayward Middle School,Springfield City School District,Clark,"Springfield, OH, 45505-4008",59.341,Springfield, OH, 45505,4008
+iLEAD Spring Meadows,iLEAD Spring Meadows,Lucas,"Holland, OH, 43528-8304",NC,Holland, OH, 43528,8304
+Global Ambassadors Language Academy,Global Ambassadors Language Academy,Cuyahoga,"Cleveland, OH, 44111-3432",NC,Cleveland, OH, 44111,3432
+Westwood Preparatory Academy,Westwood Preparatory Academy,Franklin,"Columbus, OH, 43222",NC,Columbus, OH, 43222,
 Hazel Harvey Elementary School,Chippewa Local,Wayne,"Doylestown, OH, 44230-1204",106.646,Doylestown, OH, 44230,1204
+Springmill STEM Elementary,Mansfield City,Richland,"Mansfield, OH, 44906-1544",NC,Mansfield, OH, 44906,1544
+Bolton Crossing Elementary,South-Western City,Franklin,"Grove, OH, 43123-9688",NC,Grove, OH, 43123,9688
 Heath High School,Heath City,Licking,"Heath, OH, 43056-1534",66.471,Heath, OH, 43056,1534
 George Hays-Jennie Porter Elementary,Cincinnati City,Hamilton,"Cincinnati, OH, 45203-1406",55.966,Cincinnati, OH, 45203,1406
+Hebron Elementary School,Lakewood Local,Licking,"Hebron, OH, 43025-0070",NC,Hebron, OH, 43025,0070
 Cleveland Heights High School,Cleveland Heights-University Heights City,Cuyahoga,"Cleveland Heights, OH, 44118-2926",59.794,Cleveland Heights, OH, 44118,2926
 Herberich Primary Elementary School,Copley-Fairlawn City,Summit,"Fairlawn, OH, 44333-2805",101.057,Fairlawn, OH, 44333,2805
 Heritage Hill Elementary School,Princeton City,Hamilton,"Cincinnati, OH, 45246-2037",78.000,Cincinnati, OH, 45246,2037
@@ -1269,7 +1359,9 @@ Hillside Middle School,Parma City,Cuyahoga,"Seven Hills, OH, 44131-4439",91.354,
 Hilltonia Middle School,Columbus City,Franklin,"Columbus, OH, 43204-2901",44.142,Columbus, OH, 43204,2901
 Hilltop Elementary School,Wyoming City,Hamilton,"Wyoming, OH, 45215-2506",109.227,Wyoming, OH, 45215,2506
 Hilltop Community Elementary School,Reading Community City,Hamilton,"Reading, OH, 45215-3934",93.744,Reading, OH, 45215,3934
+Lincoln West School Of Global Studies,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44109",NC,Cleveland, OH, 44109,
 Hilltop Elementary School,Beachwood City,Cuyahoga,"Beachwood, OH, 44122-1344",110.063,Beachwood, OH, 44122,1344
+Lincoln West School of Science & Health,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44109",NC,Cleveland, OH, 44109,
 Hilltop High School,Millcreek-West Unity Local,Williams,"West Unity, OH, 43570-9465",80.472,West Unity, OH, 43570,9465
 Hill View Elementary School,Sylvania Schools,Lucas,"Sylvania, OH, 43560-2522",89.556,Sylvania, OH, 43560,2522
 Hilton Elementary School,Brecksville-Broadview Heights City,Cuyahoga,"Brecksville, OH, 44141-1810",103.978,Brecksville, OH, 44141,1810
@@ -1283,6 +1375,7 @@ Holland Elementary School,Springfield Local,Lucas,"Holland, OH, 43528-9680",87.5
 C F Holliday Elementary School,West Carrollton City,Montgomery,"Dayton, OH, 45439-2104",76.730,Dayton, OH, 45439,2104
 Holly Lane Elementary School,Westlake City,Cuyahoga,"Westlake, OH, 44145-4741",92.786,Westlake, OH, 44145,4741
 Roy E Holmes Elementary School,Wilmington City,Clinton,"Wilmington, OH, 45177-2591",81.023,Wilmington, OH, 45177,2591
+Holmes Elementary School,Deer Park Community City,Hamilton,"Cincinnati, OH, 45236-1720",NC,Cincinnati, OH, 45236,1720
 Wynford Elementary School,Wynford Local,Crawford,"Bucyrus, OH, 44820-8514",83.785,Bucyrus, OH, 44820,8514
 Holmesville Elementary School,Southeast Local,Wayne,"Holmesville, OH, 44633-0008",103.585,Holmesville, OH, 44633,0008
 Hook Elementary School,Troy City,Miami,"Troy, OH, 45373-1248",96.366,Troy, OH, 45373,1248
@@ -1297,6 +1390,7 @@ Howland High School,Howland Local,Trumbull,"Warren, OH, 44484-1843",88.079,Warre
 Howland Middle School,Howland Local,Trumbull,"Warren, OH, 44484-2445",92.261,Warren, OH, 44484,2445
 Hubbard High School,Hubbard Exempted Village,Trumbull,"Hubbard, OH, 44425-2067",81.154,Hubbard, OH, 44425,2067
 Huber Ridge Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-4053",86.282,Westerville, OH, 43081,4053
+Ellsworth Hill Elementary School,Hudson City,Summit,"Hudson, OH, 44236-1936",NC,Hudson, OH, 44236,1936
 Hudson Middle School,Hudson City,Summit,"Hudson, OH, 44236-3043",102.776,Hudson, OH, 44236,3043
 Hudson High School,Hudson City,Summit,"Hudson, OH, 44236-2324",100.605,Hudson, OH, 44236,2324
 Hunter Elementary School,Franklin City,Warren,"Franklin, OH, 45005-9652",91.675,Franklin, OH, 45005,9652
@@ -1306,6 +1400,7 @@ Elm Street Elementary School,Painesville City Local,Lake,"Painesville, OH, 44077
 Huntington High School,Huntington Local,Ross,"Chillicothe, OH, 45601-9378",72.673,Chillicothe, OH, 45601,9378
 Cardinal Intermediate School,Cardinal Local,Geauga,"Middlefield, OH, 44062-9401",86.603,Middlefield, OH, 44062,9401
 Huron High School,Huron City Schools,Erie,"Huron, OH, 44839-1546",87.335,Huron, OH, 44839,1546
+Enon Primary School,Greenon Local,Clark,"Enon, OH, 45323-1243",NC,Enon, OH, 45323,1243
 Huy/A.G. Bell Elementary School,Columbus City,Franklin,"Columbus, OH, 43224-3531",68.342,Columbus, OH, 43224,3531
 Hyre Community Learning Center,Akron City,Summit,"Akron, OH, 44312-2401",70.184,Akron, OH, 44312,2401
 Northmor Elementary School,Northmor Local,Morrow,"Galion, OH, 44833-9654",87.524,Galion, OH, 44833,9654
@@ -1341,10 +1436,12 @@ James Ford Rhodes High School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44144
 Jane Addams Business Careers High School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44115-3081",39.235,Cleveland, OH, 44115,3081
 Jasper Elementary School,Scioto Valley Local,Pike,"Piketon, OH, 45661-9739",65.778,Piketon, OH, 45661,9739
 Jefferson Area Sr High School,Jefferson Area Local,Ashtabula,"Jefferson, OH, 44047-1453",78.149,Jefferson, OH, 44047,1453
+Jefferson Ave Elementary School,Shadyside Local,Belmont,"Shadyside, OH, 43947-1095",NC,Shadyside, OH, 43947,1095
 Jefferson Elementary School,Gahanna-Jefferson City,Franklin,"Gahanna, OH, 43230-2669",93.118,Gahanna, OH, 43230,2669
 Jefferson Elementary,Jefferson Area Local,Ashtabula,"Jefferson, OH, 44047-1355",85.538,Jefferson, OH, 44047,1355
 Norwood Elementary School,Jefferson Local,Madison,"West Jefferson, OH, 43162-1041",89.826,West Jefferson, OH, 43162,1041
 National Trail Elementary School,National Trail Local,Preble,"New Paris, OH, 45347-9065",94.971,New Paris, OH, 45347,9065
+Jefferson Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-5208",NC,Findlay, OH, 45840,5208
 Chardon Hills Elementary School,Euclid City,Cuyahoga,"Euclid, OH, 44132-3107",79.242,Euclid, OH, 44132,3107
 Dresden Elementary School,Tri-Valley Local,Muskingum,"Dresden, OH, 43821-9516",93.700,Dresden, OH, 43821,9516
 Jefferson Elementary School,Willoughby-Eastlake City,Lake,"Eastlake, OH, 44095-1546",84.043,Eastlake, OH, 44095,1546
@@ -1357,6 +1454,7 @@ Jefferson High School,Delphos City,Allen,"Delphos, OH, 45833-9238",79.080,Delpho
 Edison High School,Edison Local,Jefferson,"Richmond, OH, 43944-7826",70.730,Richmond, OH, 43944,7826
 Jennings Community Learning Center,Akron City,Summit,"Akron, OH, 44310-2337",50.301,Akron, OH, 44310,2337
 Hillsdale Middle School,Hillsdale Local,Ashland,"Jeromesville, OH, 44840-0057",79.960,Jeromesville, OH, 44840,0057
+Licking Heights West,Licking Heights Local,Licking,"Blacklick, OH, 43004",NC,Blacklick, OH, 43004,
 Jerusalem Elementary School,Oregon City,Lucas,"Curtice, OH, 43412-9487",90.384,Curtice, OH, 43412,9487
 Harrison North Elementary School,Harrison Hills City,Harrison,"Scio, OH, 43988",78.172,Scio, OH, 43988,
 John Adams High School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44105-2846",44.545,Cleveland, OH, 44105,2846
@@ -1406,10 +1504,12 @@ Kings Junior High School,Kings Local,Warren,"Kings Mills, OH, 45034",94.416,King
 Kings Mills Elementary School,Kings Local,Warren,"Kings Mills, OH, 45034",103.875,Kings Mills, OH, 45034,
 Zane Trace Middle School,Zane Trace Local,Ross,"Chillicothe, OH, 45601-8141",81.797,Chillicothe, OH, 45601,8141
 Kingsville Elementary School,Buckeye Local,Ashtabula,"Kingsville, OH, 44048-9794",92.766,Kingsville, OH, 44048,9794
+Kirkersville Elementary School,Southwest Licking Local,Licking,"Kirkersville, OH, 43033-0401",NC,Kirkersville, OH, 43033,0401
 The Bridgeport School DIstrict - Middle School,Bridgeport Exempted Village,Belmont,"Bridgeport, OH, 43912-1516",86.632,Bridgeport, OH, 43912,1516
 Kirtland Elementary School,Kirtland Local,Lake,"Kirtland, OH, 44094-9256",101.809,Kirtland, OH, 44094,9256
 Kirtland High School,Kirtland Local,Lake,"Kirtland, OH, 44094-9256",96.154,Kirtland, OH, 44094,9256
 Kirtland Middle School,Kirtland Local,Lake,"Kirtland, OH, 44094-9256",96.700,Kirtland, OH, 44094,9256
+Knollwood Elementary School,Sheffield-Sheffield Lake City,Lorain,"Sheffield Village, OH, 44054-1561",NC,Sheffield Village, OH, 44054,1561
 Knox Elementary School,West Branch Local,Mahoning,"Alliance, OH, 44601-9021",94.120,Alliance, OH, 44601,9021
 Kramer Elementary School,Talawanda City,Butler,"Oxford, OH, 45056-1168",97.280,Oxford, OH, 45056,1168
 Krout 2-3 Elementary,Tiffin City,Seneca,"Tiffin, OH, 44883-3417",85.330,Tiffin, OH, 44883,3417
@@ -1423,6 +1523,7 @@ Lake Cable Elementary School,Jackson Local,Stark,"Canton, OH, 44718-1253",98.290
 Lake Elementary School,Lake Local,Wood,"Millbury, OH, 43447-9747",90.855,Millbury, OH, 43447,9747
 Lake High School,Lake Local,Wood,"Millbury, OH, 43447-9747",81.715,Millbury, OH, 43447,9747
 Lake Middle School,Lake Local,Wood,"Millbury, OH, 43447-9747",87.854,Millbury, OH, 43447,9747
+Winton Woods Primary South,Winton Woods City,Hamilton,"Cincinnati, OH, 45231-2606",NC,Cincinnati, OH, 45231,2606
 Admiral King Elementary School,Lorain City,Lorain,"Lorain, OH, 44052-1465",77.559,Lorain, OH, 44052,1465
 Indian Lake Elementary School,Indian Lake Local,Logan,"Lewistown, OH, 43333-9777",98.472,Lewistown, OH, 43333,9777
 Lakeview High School,Lakeview Local,Trumbull,"Cortland, OH, 44410-1562",95.543,Cortland, OH, 44410,1562
@@ -1442,6 +1543,7 @@ Larchmont Elementary School,Toledo City,Lucas,"Toledo, OH, 43612-2016",71.940,To
 Larkmoor Elementary School,Lorain City,Lorain,"Lorain, OH, 44052-2707",64.252,Lorain, OH, 44052,2707
 Maple Elementary School,Painesville City Local,Lake,"Painesville, OH, 44077-3103",77.147,Painesville, OH, 44077,3103
 League Elementary School,Norwalk City,Huron,"Norwalk, OH, 44857-1347",93.766,Norwalk, OH, 44857,1347
+Lear North Elementary,North Ridgeville City,Lorain,"North Ridgeville, OH, 44039-2118",NC,North Ridgeville, OH, 44039,2118
 LaBrae Middle School,LaBrae Local,Trumbull,"Leavittsburg, OH, 44430-9644",87.190,Leavittsburg, OH, 44430,9644
 LaBrae High School,LaBrae Local,Trumbull,"Leavittsburg, OH, 44430-9644",83.119,Leavittsburg, OH, 44430,9644
 Leawood Elementary School,Columbus City,Franklin,"Columbus, OH, 43227-3667",47.867,Columbus, OH, 43227,3667
@@ -1462,6 +1564,7 @@ Lexington High School,Lexington Local,Richland,"Lexington, OH, 44904-1209",86.03
 Lewis F Mayer Middle School,Fairview Park City,Cuyahoga,"Fairview Park, OH, 44126-2113",83.881,Fairview Park, OH, 44126,2113
 Liberty Center Elementary School,Liberty Center Local,Henry,"Liberty Center, OH, 43532-0434",97.582,Liberty Center, OH, 43532,0434
 Liberty Center High School,Liberty Center Local,Henry,"Liberty Center, OH, 43532-0434",81.701,Liberty Center, OH, 43532,0434
+Liberty Early Childhood School,Lakota Local,Butler,"Liberty Twp, OH, 45011-9396",NC,Liberty Twp, OH, 45011,9396
 Liberty High School,Liberty Local,Trumbull,"Youngstown, OH, 44505-1385",74.020,Youngstown, OH, 44505,1385
 Liberty Union Elementary School,Liberty Union-Thurston Local,Fairfield,"Baltimore, OH, 43105-9755",86.008,Baltimore, OH, 43105,9755
 Liberty Union High School,Liberty Union-Thurston Local,Fairfield,"Baltimore, OH, 43105-1180",70.142,Baltimore, OH, 43105,1180
@@ -1476,6 +1579,7 @@ Van Wert Middle School,Van Wert City,Van Wert,"Van Wert, OH, 45891-9243",81.414,
 Lincoln Elementary School,Cuyahoga Falls City,Summit,"Cuyahoga Falls, OH, 44221-1713",92.306,Cuyahoga Falls, OH, 44221,1713
 Lincoln Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-3138",83.923,Findlay, OH, 45840,3138
 Arbor Elementary School,Euclid City,Cuyahoga,"Euclid, OH, 44119",64.461,Euclid, OH, 44119,
+Niles Primary School,Niles City,Trumbull,"Niles, OH, 44446-2722",NC,Niles, OH, 44446,2722
 Wickliffe Elementary School,Wickliffe City,Lake,"Wickliffe, OH, 44092-2416",85.181,Wickliffe, OH, 44092,2416
 Lincoln Elementary School,Wadsworth City,Medina,"Wadsworth, OH, 44281-1818",89.706,Wadsworth, OH, 44281,1818
 Lincoln Elementary School,Springfield City School District,Clark,"Springfield, OH, 45505-3851",54.502,Springfield, OH, 45505,3851
@@ -1495,6 +1599,7 @@ Little Miami High School,Little Miami Local,Warren,"Morrow, OH, 45152",86.076,Mo
 Little Miami Junior High School,Little Miami Local,Warren,"Morrow, OH, 45152-1031",88.727,Morrow, OH, 45152,1031
 Buckeye Intermediate School,Buckeye Local,Medina,"Medina, OH, 44256-9411",95.353,Medina, OH, 44256,9411
 Livingston Elementary School,Columbus City,Franklin,"Columbus, OH, 43205-2672",51.941,Columbus, OH, 43205,2672
+Loveland Early Childhood Center,Loveland City,Hamilton,"Loveland, OH, 45140-8795",NC,Loveland, OH, 45140,8795
 Lockland Elementary School,Lockland Local,Hamilton,"Lockland, OH, 45215-3011",56.305,Lockland, OH, 45215,3011
 Lockland High School,Lockland Local,Hamilton,"Lockland, OH, 45215-3014",57.100,Lockland, OH, 45215,3014
 Rodger O. Borror Middle School,Wilmington City,Clinton,"Wilmington, OH, 45177-1217",79.596,Wilmington, OH, 45177,1217
@@ -1506,6 +1611,7 @@ Lomond Elementary School,Shaker Heights City,Cuyahoga,"Shaker Heights, OH, 44122
 London High School,London City,Madison,"London, OH, 43140-9220",78.582,London, OH, 43140,9220
 Southeastern Elementary School,Southeastern Local,Ross,"Chillicothe, OH, 45601-8213",87.415,Chillicothe, OH, 45601,8213
 Longcoy Elementary School,Kent City,Portage,"Kent, OH, 44240-3361",95.972,Kent, OH, 44240,3361
+Longfellow Elementary School,Fostoria City,Seneca,"Fostoria, OH, 44830-2717",NC,Fostoria, OH, 44830,2717
 Longfellow Elementary School,Sidney City,Shelby,"Sidney, OH, 45365-1143",80.169,Sidney, OH, 45365,1143
 Longfellow Elementary School,Willoughby-Eastlake City,Lake,"Eastlake, OH, 44095-2336",84.448,Eastlake, OH, 44095,2336
 Longfellow Elementary School,Toledo City,Lucas,"Toledo, OH, 43613-3527",75.000,Toledo, OH, 43613,3527
@@ -1521,6 +1627,7 @@ Louisville High School,Louisville City,Stark,"Louisville, OH, 44641-2664",85.525
 Louisville Middle School,Louisville City,Stark,"Louisville, OH, 44641-2323",90.440,Louisville, OH, 44641,2323
 Loveland Middle School,Loveland City,Hamilton,"Loveland, OH, 45140-9390",76.123,Loveland, OH, 45140,9390
 Loveland High School,Loveland City,Hamilton,"Loveland, OH, 45140-1975",84.382,Loveland, OH, 45140,1975
+Loveland Primary School,Loveland City,Hamilton,"Loveland, OH, 45140-2714",NC,Loveland, OH, 45140,2714
 Stevan Dohanos Elementary School,Lorain City,Lorain,"Lorain, OH, 44055-1711",67.373,Lorain, OH, 44055,1711
 Lowell Elementary School,Fort Frye Local,Washington,"Lowell, OH, 45744-7553",86.404,Lowell, OH, 45744,7553
 Lowellville High School,Lowellville Local,Mahoning,"Lowellville, OH, 44436",85.275,Lowellville, OH, 44436,
@@ -1564,6 +1671,7 @@ Maple Elementary School,Chardon Local,Geauga,"Chardon, OH, 44024-1040",102.075,C
 Katherine Thomas Elementary School,Windham Exempted Village,Portage,"Windham, OH, 44288-1173",84.426,Windham, OH, 44288,1173
 Maple Heights High School,Maple Heights City,Cuyahoga,"Maple Heights, OH, 44137-2656",54.534,Maple Heights, OH, 44137,2656
 Maple Leaf Elementary School,Garfield Heights City Schools,Cuyahoga,"Garfield Heights, OH, 44125-4067",71.010,Garfield Heights, OH, 44125,4067
+Maplehurst Elementary School,Norwalk City,Huron,"Norwalk, OH, 44857-1654",NC,Norwalk, OH, 44857,1654
 Mapleton High School,Mapleton Local,Ashland,"Ashland, OH, 44805-8843",77.419,Ashland, OH, 44805,8843
 Maplewood Middle School,Maplewood Local,Trumbull,"Cortland, OH, 44410-9750",100.906,Cortland, OH, 44410,9750
 Maplewood Elementary School,Sylvania Schools,Lucas,"Sylvania, OH, 43560-1954",98.062,Sylvania, OH, 43560,1954
@@ -1614,6 +1722,7 @@ McComb Local High School,McComb Local,Hancock,"McComb, OH, 45858-0877",73.892,Mc
 McCormick Junior High,Huron City Schools,Erie,"Huron, OH, 44839-2702",92.279,Huron, OH, 44839,2702
 McDonald High School,McDonald Local,Trumbull,"Mc Donald, OH, 44437-1677",87.560,Mc Donald, OH, 44437,1677
 McDowell Elementary School,Hudson City,Summit,"Hudson, OH, 44236-3154",105.906,Hudson, OH, 44236,3154
+McGregor Elementary School,Canton City,Stark,"Canton, OH, 44706-2770",NC,Canton, OH, 44706,2770
 Mcgregor Elementary School,Washington Local,Lucas,"Toledo, OH, 43623-1814",88.889,Toledo, OH, 43623,1814
 McGuffey Elementary School,Newark City,Licking,"Newark, OH, 43055-2715",83.494,Newark, OH, 43055,2715
 Columbus Alternative High School,Columbus City,Franklin,"Columbus, OH, 43211-1237",84.264,Columbus, OH, 43211,1237
@@ -1664,6 +1773,7 @@ Newcomerstown Middle School,Newcomerstown Exempted Village,Tuscarawas,"Newcomers
 Highland Middle School,Highland Local,Medina,"Medina, OH, 44256-7920",99.839,Medina, OH, 44256,7920
 Oakwood Middle School,Plain Local,Stark,"Canton, OH, 44721-3360",87.434,Canton, OH, 44721,3360
 Big Creek Elementary School,Berea City,Cuyahoga,"Middleburg Hts, OH, 44130-4816",92.704,Middleburg Hts, OH, 44130,4816
+A J Jordak Elementary School,Cardinal Local,Geauga,"Middlefield, OH, 44062-0188",NC,Middlefield, OH, 44062,0188
 Middletown High School,Middletown City,Butler,"Middletown, OH, 45042-3801",58.172,Middletown, OH, 45042,3801
 Berea-Midpark High School,Berea City,Cuyahoga,"Berea, OH, 44017-2000",73.192,Berea, OH, 44017,2000
 Midvale Elementary School,Indian Valley Local,Tuscarawas,"Midvale, OH, 44653-0337",78.636,Midvale, OH, 44653,0337
@@ -1694,6 +1804,7 @@ Ethel M. Taylor Academy,Cincinnati City,Hamilton,"Cincinnati, OH, 45225",57.762,
 Milton-Union Middle School,Milton-Union Exempted Village,Miami,"West Milton, OH, 45383-9602",91.423,West Milton, OH, 45383,9602
 Milton-Union High School,Milton-Union Exempted Village,Miami,"West Milton, OH, 45383-9602",82.137,West Milton, OH, 45383,9602
 Milton-Union Elementary School,Milton-Union Exempted Village,Miami,"West Milton, OH, 45383-9602",100.748,West Milton, OH, 45383,9602
+Tuscarawas Valley Primary,Tuscarawas Valley Local,Tuscarawas,"Mineral City, OH, 44656",NC,Mineral City, OH, 44656,
 Mineral Ridge High School,Weathersfield Local,Trumbull,"Mineral Ridge, OH, 44440-9571",84.726,Mineral Ridge, OH, 44440,9571
 Minerva Middle School,Minerva Local,Stark,"Minerva, OH, 44657-2017",81.136,Minerva, OH, 44657,2017
 Minerva High School,Minerva Local,Stark,"Minerva, OH, 44657-2020",74.898,Minerva, OH, 44657,2020
@@ -1711,6 +1822,7 @@ Moler Elementary School,Columbus City,Franklin,"Columbus, OH, 43207-1552",51.478
 Monac Elementary School,Washington Local,Lucas,"Toledo, OH, 43623-3874",84.536,Toledo, OH, 43623,3874
 Monclova Elementary School,Anthony Wayne Local,Lucas,"Monclova, OH, 43542-0108",105.280,Monclova, OH, 43542,0108
 Monfort Heights Elementary School,Northwest Local,Hamilton,"Cincinnati, OH, 45247-7548",89.966,Cincinnati, OH, 45247,7548
+Monroe Primary School,Monroe Local,Butler,"Monroe, OH, 45050-1320",NC,Monroe, OH, 45050,1320
 National Trail Middle School,National Trail Local,Preble,"New Paris, OH, 45347-9065",82.867,New Paris, OH, 45347,9065
 Monroe Elementary School,Jonathan Alder Local,Madison,"London, OH, 43140-9658",80.612,London, OH, 43140,9658
 Monroe Elementary School,New Richmond Exempted Village,Clermont,"New Richmond, OH, 45157-9571",90.940,New Richmond, OH, 45157,9571
@@ -1757,6 +1869,7 @@ South Range Elementary School,South Range Local,Mahoning,"Canfield, OH, 44406-94
 South Range High School,South Range Local,Mahoning,"Canfield, OH, 44406-9405",91.199,Canfield, OH, 44406,9405
 North Linden Elementary School,Columbus City,Franklin,"Columbus, OH, 43224-5213",74.076,Columbus, OH, 43224,5213
 North Elementary School,Madison Local,Lake,"Madison, OH, 44057-2121",88.144,Madison, OH, 44057,2121
+North Nimishillen Elementary School,Louisville City,Stark,"Louisville, OH, 44641-9055",NC,Louisville, OH, 44641,9055
 North Olmsted High School,North Olmsted City,Cuyahoga,"North Olmsted, OH, 44070-4929",82.214,North Olmsted, OH, 44070,4929
 North Olmsted Middle School,North Olmsted City,Cuyahoga,"North Olmsted, OH, 44070-3210",86.188,North Olmsted, OH, 44070,3210
 North Ridgeville High School,North Ridgeville City,Lorain,"North Ridgeville, OH, 44039-4073",80.954,North Ridgeville, OH, 44039,4073
@@ -1766,6 +1879,7 @@ North Union Middle School,North Union Local School District,Union,"Richwood, OH,
 North Union High School,North Union Local School District,Union,"Richwood, OH, 43344-1032",77.494,Richwood, OH, 43344,1032
 Napoleon Junior/Senior High School,Napoleon Area City,Henry,"Napoleon, OH, 43545-1251",84.665,Napoleon, OH, 43545,1251
 Nashport Elementary School,Tri-Valley Local,Muskingum,"Nashport, OH, 43830-9566",99.784,Nashport, OH, 43830,9566
+Nashville Elementary School,West Holmes Local,Holmes,"Big Prairie, OH, 44611-9527",NC,Big Prairie, OH, 44611,9527
 Nathan Hale School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44105-2465",40.725,Cleveland, OH, 44105,2465
 National Trail High School,National Trail Local,Preble,"New Paris, OH, 45347-9065",83.094,New Paris, OH, 45347,9065
 Navarre Elementary School,Toledo City,Lucas,"Toledo, OH, 43605-2917",67.240,Toledo, OH, 43605,2917
@@ -1773,10 +1887,12 @@ Mathews Junior High School,Mathews Local,Trumbull,"Vienna, OH, 44473-9644",75.98
 Special Education Center,Columbus City,Franklin,"Columbus, OH, 43205-2522",26.875,Columbus, OH, 43205,2522
 Nelsonville-York High School,Nelsonville-York City,Athens,"Nelsonville, OH, 45764-9591",72.135,Nelsonville, OH, 45764,9591
 Nelsonville-York Junior High School,Nelsonville-York City,Athens,"Nelsonville, OH, 45764-9591",63.910,Nelsonville, OH, 45764,9591
+Nevin Coppock Elementary School,Tipp City Exempted Village,Miami,"Tipp City, OH, 45371-1522",NC,Tipp City, OH, 45371,1522
 New Bremen Elementary School,New Bremen Local,Auglaize,"New Bremen, OH, 45869-1241",102.679,New Bremen, OH, 45869,1241
 New Bremen High School,New Bremen Local,Auglaize,"New Bremen, OH, 45869-9685",89.167,New Bremen, OH, 45869,9685
 North Elementary School,Mt Healthy City,Hamilton,"Cincinnati, OH, 45231-1736",58.446,Cincinnati, OH, 45231,1736
 Miller City Middle School,Miller City-New Cleveland Local,Putnam,"Miller City, OH, 45864-0038",98.982,Miller City, OH, 45864,0038
+New Concord Elementary School,East Muskingum Local,Muskingum,"New Concord, OH, 43762-1148",NC,New Concord, OH, 43762,1148
 New Knoxville Elementary School,New Knoxville Local,Auglaize,"New Knoxville, OH, 45871",100.224,New Knoxville, OH, 45871,
 New Knoxville High School,New Knoxville Local,Auglaize,"New Knoxville, OH, 45871",92.450,New Knoxville, OH, 45871,
 Dixie Elementary School,New Lebanon Local,Montgomery,"New Lebanon, OH, 45345-9760",89.566,New Lebanon, OH, 45345,9760
@@ -1813,21 +1929,25 @@ Circleville Elementary School,Circleville City,Pickaway,"Circleville, OH, 43113-
 Frank Nicholas Elementary School,West Carrollton City,Montgomery,"Dayton, OH, 45439-1239",82.949,Dayton, OH, 45439,1239
 Noble Elementary School,Cleveland Heights-University Heights City,Cuyahoga,"Cleveland Heights, OH, 44121-1601",68.590,Cleveland Heights, OH, 44121,1601
 Noble 4-5 Elementary,Tiffin City,Seneca,"Tiffin, OH, 44883-1560",86.648,Tiffin, OH, 44883,1560
+Noble Elementary School,Northeastern Local,Defiance,"Defiance, OH, 43512-1262",NC,Defiance, OH, 43512,1262
 Nolley Elementary School,Manchester Local,Summit,"Akron, OH, 44319-4741",105.093,Akron, OH, 44319,4741
 Nordonia Middle School,Nordonia Hills City,Summit,"Northfield, OH, 44067-1913",94.284,Northfield, OH, 44067,1913
 Nordonia High School,Nordonia Hills City,Summit,"Macedonia, OH, 44056-2025",87.397,Macedonia, OH, 44056,2025
 Normandy Elementary School,Centerville City,Montgomery,"Dayton, OH, 45459-3138",95.011,Dayton, OH, 45459,3138
+Normandy Elementary School,Bay Village City,Cuyahoga,"Bay Village, OH, 44140-2324",NC,Bay Village, OH, 44140,2324
 Normandy High School,Parma City,Cuyahoga,"Parma, OH, 44134-6521",84.887,Parma, OH, 44134,6521
 Fairfield North Elementary School,Fairfield City,Butler,"Hamilton, OH, 45011-5120",97.402,Hamilton, OH, 45011,5120
 Waverly Junior High School,Waverly City,Pike,"Waverly, OH, 45690",75.013,Waverly, OH, 45690,
 North Elementary School,East Liverpool City,Columbiana,"East Liverpool, OH, 43920-1934",73.353,East Liverpool, OH, 43920,1934
 Orrville Elementary School,Orrville City,Wayne,"Orrville, OH, 44667-1134",89.657,Orrville, OH, 44667,1134
+North Elementary School,Urbana City,Champaign,"Urbana, OH, 43078-1333",NC,Urbana, OH, 43078,1333
 Lincolnview Elementary School,Lincolnview Local,Van Wert,"Van Wert, OH, 45891-9769",88.737,Van Wert, OH, 45891,9769
 Tuslaw Elementary School,Tuslaw Local,Stark,"Massillon, OH, 44647-9017",100.268,Massillon, OH, 44647,9017
 North High School,Akron City,Summit,"Akron, OH, 44310-2407",49.316,Akron, OH, 44310,2407
 North High School,Willoughby-Eastlake City,Lake,"Eastlake, OH, 44095-2905",70.717,Eastlake, OH, 44095,2905
 M L King Elementary School,Youngstown City,Mahoning,"Youngstown, OH, 44505-4208",63.333,Youngstown, OH, 44505,4208
 North Rd Elementary School,Howland Local,Trumbull,"Warren, OH, 44484-4837",95.098,Warren, OH, 44484,4837
+Woodridge Primary Elementary School,Woodridge Local,Summit,"Cuyahoga Falls, OH, 44223-3075",NC,Cuyahoga Falls, OH, 44223,3075
 Northeastern High School,Northeastern Local,Clark,"Springfield, OH, 45502-8826",77.500,Springfield, OH, 45502,8826
 Clermont Northeastern Middle School,Clermont Northeastern Local,Clermont,"Batavia, OH, 45103-8532",76.933,Batavia, OH, 45103,8532
 Northfield Elementary School,Nordonia Hills City,Summit,"Northfield, OH, 44067-2046",101.667,Northfield, OH, 44067,2046
@@ -1876,6 +1996,9 @@ Oberlin High School,Oberlin City Schools,Lorain,"Oberlin, OH, 44074-1174",73.750
 Hamilton Middle School,Hamilton Local,Franklin,"Columbus, OH, 43207-4737",84.059,Columbus, OH, 43207,4737
 Olde Sawmill Elementary School,Dublin City,Franklin,"Dublin, OH, 43016-9095",94.030,Dublin, OH, 43016,9095
 Ohio Avenue Elementary School,Columbus City,Franklin,"Columbus, OH, 43205-2720",58.525,Columbus, OH, 43205,2720
+Ohio School For The Deaf,Ohio School For The Deaf,Franklin,"Columbus, OH, 43214-1833",NC,Columbus, OH, 43214,1833
+Ohio School For The Deaf,Ohio School For The Deaf,Franklin,"Columbus, OH, 43214-1833",NC,Columbus, OH, 43214,1833
+State School For The Blind,Ohio School For The Blind,Franklin,"Columbus, OH, 43214-1240",NC,Columbus, OH, 43214,1240
 Austintown Intermediate School,Austintown Local Schools,Mahoning,"Youngstown, OH, 44515-3703",84.915,Youngstown, OH, 44515,3703
 Old Fort Elementary School Bettsville Campus,Old Fort Local,Seneca,"Bettsville, OH, 44815-0006",91.304,Bettsville, OH, 44815,0006
 Old Fort High School,Old Fort Local,Seneca,"Tiffin, OH, 44883",87.248,Tiffin, OH, 44883,
@@ -1884,6 +2007,7 @@ Buckeye Trail Middle School,East Guernsey Local,Guernsey,"Lore City, OH, 43755-9
 Olde Orchard Alt Elementary School,Columbus City,Franklin,"Columbus, OH, 43213-2147",64.790,Columbus, OH, 43213,2147
 Olentangy High School,Olentangy Local,Delaware,"Lewis Center, OH, 43035-9049",96.086,Lewis Center, OH, 43035,9049
 Tecumseh Middle School,Tecumseh Local,Clark,"New Carlisle, OH, 45344-8285",77.447,New Carlisle, OH, 45344,8285
+Trotwood-Madison Early Learning Center,Trotwood-Madison City,Montgomery,"Trotwood, OH, 45426-3706",NC,Trotwood, OH, 45426,3706
 Oliver H Perry Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44119-2053",54.209,Cleveland, OH, 44119,2053
 Olmsted Falls High School,Olmsted Falls City,Cuyahoga,"Olmsted Falls, OH, 44138-1161",93.399,Olmsted Falls, OH, 44138,1161
 Olmsted Falls Middle School,Olmsted Falls City,Cuyahoga,"Olmsted Falls, OH, 44138-1103",94.002,Olmsted Falls, OH, 44138,1103
@@ -1921,6 +2045,7 @@ Pandora-Gilboa Elementary School,Pandora-Gilboa Local,Putnam,"Pandora, OH, 45877
 Pandora-Gilboa High School,Pandora-Gilboa Local,Putnam,"Pandora, OH, 45877-0389",91.429,Pandora, OH, 45877,0389
 Park Elementary School,Chardon Local,Geauga,"Chardon, OH, 44024-1215",98.629,Chardon, OH, 44024,1215
 Park Elementary School,Swanton Local,Fulton,"Swanton, OH, 43558-1230",88.659,Swanton, OH, 43558,1230
+Park Layne Elementary School,Tecumseh Local,Clark,"New Carlisle, OH, 45344-9718",NC,New Carlisle, OH, 45344,9718
 Western Elementary School,Western Local,Pike,"Latham, OH, 45646-0129",77.201,Latham, OH, 45646,0129
 Parkmoor Elementary School,Columbus City,Franklin,"Columbus, OH, 43229-5214",59.645,Columbus, OH, 43229,5214
 Dover Intermediate School,Westlake City,Cuyahoga,"Westlake, OH, 44145-3157",97.289,Westlake, OH, 44145,3157
@@ -1952,6 +2077,7 @@ Pennyroyal Elementary School,Franklin City,Warren,"Franklin, OH, 45005-1143",84.
 Briar Middle School,Perkins Local,Erie,"Sandusky, OH, 44870-6913",84.870,Sandusky, OH, 44870,6913
 Perkins High School,Perkins Local,Erie,"Sandusky, OH, 44870-7232",81.170,Sandusky, OH, 44870,7232
 Perrin Woods Elementary School,Springfield City School District,Clark,"Springfield, OH, 45506-3341",64.038,Springfield, OH, 45506,3341
+Perry Elementary School,East Muskingum Local,Muskingum,"Zanesville, OH, 43701-8015",NC,Zanesville, OH, 43701,8015
 Perry Elementary School,Perry Local,Allen,"Lima, OH, 45806-9743",80.136,Lima, OH, 45806,9743
 Perry High School,Perry Local,Allen,"Lima, OH, 45806-9743",64.026,Lima, OH, 45806,9743
 Perry High School,Perry Local,Stark,"Massillon, OH, 44646-3407",81.382,Massillon, OH, 44646,3407
@@ -1969,6 +2095,7 @@ Pickaway Elementary School,Logan Elm Local,Pickaway,"Circleville, OH, 43113-9741
 Pickerington Elementary School,Pickerington Local,Fairfield,"Pickerington, OH, 43147-1061",96.418,Pickerington, OH, 43147,1061
 Pickerington High School Central,Pickerington Local,Fairfield,"Pickerington, OH, 43147-1296",75.566,Pickerington, OH, 43147,1296
 Pickett Elementary School,Toledo City,Lucas,"Toledo, OH, 43607-2042",46.350,Toledo, OH, 43607,2042
+Pike Elementary School,East Muskingum Local,Muskingum,"Cambridge, OH, 43725-9385",NC,Cambridge, OH, 43725,9385
 Zahns Middle School,Scioto Valley Local,Pike,"Piketon, OH, 45661",74.873,Piketon, OH, 45661,
 Piketon Jr/Sr High School,Scioto Valley Local,Pike,"Piketon, OH, 45661-9801",74.704,Piketon, OH, 45661,9801
 Pine School,North Olmsted City,Cuyahoga,"North Olmsted, OH, 44070-2508",91.121,North Olmsted, OH, 44070,2508
@@ -1998,6 +2125,7 @@ Portage Path Community Learning Center,Akron City,Summit,"Akron, OH, 44303-1035"
 Portsmouth Junior High School/Portsmouth High School,Portsmouth City,Scioto,"Portsmouth, OH, 45662-4216",67.103,Portsmouth, OH, 45662,4216
 Portsmouth West High School,Washington-Nile Local,Scioto,"West Portsmouth, OH, 45663-9093",68.231,West Portsmouth, OH, 45663,9093
 Possum Elementary School,Clark-Shawnee Local,Clark,"Springfield, OH, 45506",80.600,Springfield, OH, 45506,
+Powers Elementary School,Amherst Exempted Village,Lorain,"Amherst, OH, 44001-1551",NC,Amherst, OH, 44001,1551
 Powhatan Elementary School,Switzerland of Ohio Local,Monroe,"Powhatan Point, OH, 43942-9754",60.792,Powhatan Point, OH, 43942,9754
 Prairie Lincoln Elementary School,South-Western City,Franklin,"Columbus, OH, 43228-1226",74.795,Columbus, OH, 43228,1226
 Prairie Norton Elementary School,South-Western City,Franklin,"Columbus, OH, 43228-1713",74.562,Columbus, OH, 43228,1713
@@ -2127,6 +2255,7 @@ South Avondale Elementary School,Cincinnati City,Hamilton,"Cincinnati, OH, 45229
 South Elementary School,Upper Sandusky Exempted Village,Wyandot,"Upper Sandusky, OH, 43351-1506",91.487,Upper Sandusky, OH, 43351,1506
 James A Harmon Elementary School,South-Western City,Franklin,"Grove City, OH, 43123-1209",79.841,Grove City, OH, 43123,1209
 South Lebanon Elementary School,Kings Local,Warren,"Maineville, OH, 45039-8021",98.998,Maineville, OH, 45039,8021
+Alliance Early Learning School at South Lincoln,Alliance City,Stark,"Alliance, OH, 44601-2872",NC,Alliance, OH, 44601,2872
 Clyde Elementary School,Clyde-Green Springs Exempted Village,Sandusky,"Clyde, OH, 43410-2035",84.032,Clyde, OH, 43410,2035
 South Mifflin STEM Academy (K-6),Columbus City,Franklin,"Columbus, OH, 43219-1303",62.910,Columbus, OH, 43219,1303
 South Point Elementary School,South Point Local,Lawrence,"South Point, OH, 45680-9661",93.384,South Point, OH, 45680,9661
@@ -2162,6 +2291,7 @@ North Adams High School,Adams County Ohio Valley Local,Adams,"Seaman, OH, 45679-
 Seiberling CLC,Akron City,Summit,"Akron, OH, 44305-2903",71.047,Akron, OH, 44305,2903
 Madeira Middle School,Madeira City,Hamilton,"Madeira, OH, 45243-3143",106.881,Madeira, OH, 45243,3143
 Cloverleaf Elementary School,Cloverleaf Local,Medina,"Seville, OH, 44273-9117",97.744,Seville, OH, 44273,9117
+Shade Elementary School,West Carrollton City,Montgomery,"West Carrollton, OH, 45449-1359",NC,West Carrollton, OH, 45449,1359
 Shady Lane Elementary School,Columbus City,Franklin,"Columbus, OH, 43227-2110",58.955,Columbus, OH, 43227,2110
 Shadyside High School,Shadyside Local,Belmont,"Shadyside, OH, 43947-1319",70.551,Shadyside, OH, 43947,1319
 Shaker Hts High School,Shaker Heights City,Cuyahoga,"Shaker Heights, OH, 44120-2505",80.509,Shaker Heights, OH, 44120,2505
@@ -2170,6 +2300,7 @@ Sharonville Elementary School,Princeton City,Hamilton,"Cincinnati, OH, 45241-262
 Sharpsburg Elementary School,Norwood City,Hamilton,"Norwood, OH, 45212-3346",88.371,Norwood, OH, 45212,3346
 Shaw Elementary School,Beavercreek City,Greene,"Beavercreek, OH, 45431-2532",101.640,Beavercreek, OH, 45431,2532
 Shaw High School,East Cleveland City School District,Cuyahoga,"East Cleveland, OH, 44112-2806",48.522,East Cleveland, OH, 44112,2806
+Elmwood Elementary School,Shawnee Local,Allen,"Lima, OH, 45806-2027",NC,Lima, OH, 45806,2027
 Shawnee Middle School,Shawnee Local,Allen,"Lima, OH, 45806-1434",96.710,Lima, OH, 45806,1434
 Shawnee Elementary School,Xenia Community City,Greene,"Xenia, OH, 45385-1818",81.949,Xenia, OH, 45385,1818
 Shawnee High School,Clark-Shawnee Local,Clark,"Springfield, OH, 45502-7947",87.451,Springfield, OH, 45502,7947
@@ -2219,6 +2350,7 @@ Vermilion Elementary School,Vermilion Local,Erie,"Vermilion, OH, 44089-1209",97.
 Southdale Elementary School,Kettering City School District,Montgomery,"Kettering, OH, 45409-1307",95.396,Kettering, OH, 45409,1307
 Crestline Elementary School,Crestline Exempted Village,Crawford,"Crestline, OH, 44827-9404",75.413,Crestline, OH, 44827,9404
 Southeast High School,Southeast Local,Portage,"Ravenna, OH, 44266-9242",79.283,Ravenna, OH, 44266,9242
+Bellefontaine Elementary School,Bellefontaine City,Logan,"Bellefontaine, OH, 43311-2515",NC,Bellefontaine, OH, 43311,2515
 Southeastern Sr. High School,Southeastern Local,Clark,"South Charleston, OH, 45368-0826",82.888,South Charleston, OH, 45368,0826
 Southeastern High School,Southeastern Local,Ross,"Chillicothe, OH, 45601-9092",70.531,Chillicothe, OH, 45601,9092
 Southern High School,Southern Local,Meigs,"Racine, OH, 45771-8902",65.486,Racine, OH, 45771,8902
@@ -2229,6 +2361,7 @@ Black River Education Center Middle School,Black River Local,Medina,"Sullivan, O
 Spencerville Elementary School,Spencerville Local,Allen,"Spencerville, OH, 45887-1293",97.729,Spencerville, OH, 45887,1293
 Spencerville High School,Spencerville Local,Allen,"Spencerville, OH, 45887-1293",88.339,Spencerville, OH, 45887,1293
 Spring Elementary School,Toledo City,Lucas,"Toledo, OH, 43608-2554",39.580,Toledo, OH, 43608,2554
+Elyria Early Childhood Center,Elyria City Schools,Lorain,"Elyria, OH, 44035-2117",NC,Elyria, OH, 44035,2117
 Springcreek Primary Elementary School,Piqua City,Miami,"Piqua, OH, 45356-8201",81.634,Piqua, OH, 45356,8201
 Springdale Elementary School,Princeton City,Hamilton,"Cincinnati, OH, 45246-3024",88.069,Cincinnati, OH, 45246,3024
 Springfield Intermediate Middle School,Springfield Local,Mahoning,"New Middletown, OH, 44442-8724",94.693,New Middletown, OH, 44442,8724
@@ -2254,6 +2387,7 @@ Starr Elementary School,Oregon City,Lucas,"Oregon, OH, 43616-2356",91.034,Oregon
 Start High School,Toledo City,Lucas,"Toledo, OH, 43613-3947",55.716,Toledo, OH, 43613,3947
 Michigan Primary School,Ashtabula Area City,Ashtabula,"Ashtabula, OH, 44004-9435",64.740,Ashtabula, OH, 44004,9435
 Stebbins High School,Mad River Local,Montgomery,"Dayton, OH, 45424-5022",62.164,Dayton, OH, 45424,5022
+Stephen Bell Elementary School,Bellbrook-Sugarcreek Local,Greene,"Bellbrook, OH, 45305-1320",NC,Bellbrook, OH, 45305,1320
 Norwayne Elementary School,Norwayne Local,Wayne,"Creston, OH, 44217",103.857,Creston, OH, 44217,
 Sterling Morton Elementary School,Mentor Exempted Village,Lake,"Mentor, OH, 44060-1010",97.796,Mentor, OH, 44060,1010
 Steubenville High School,Steubenville City,Jefferson,"Steubenville, OH, 43952-2022",74.318,Steubenville, OH, 43952,2022
@@ -2264,6 +2398,7 @@ Southern Local Jr/Sr High School,Southern Local,Columbiana,"Salineville, OH, 439
 Stiles Elementary School,South-Western City,Franklin,"Columbus, OH, 43228-1954",66.591,Columbus, OH, 43228,1954
 Stingley Elementary School,Centerville City,Montgomery,"Centerville, OH, 45459-4530",99.080,Centerville, OH, 45459,4530
 Stivers School For The Arts,Dayton City,Montgomery,"Dayton, OH, 45402-2222",79.067,Dayton, OH, 45402,2222
+Belle Stone Elementary School,Canton City,Stark,"Canton, OH, 44714-2148",NC,Canton, OH, 44714,2148
 Stow-Munroe Falls High School,Stow-Munroe Falls City School District,Summit,"Stow, OH, 44224-3644",81.910,Stow, OH, 44224,3644
 Strasburg-Franklin Elementary School,Strasburg-Franklin Local,Tuscarawas,"Strasburg, OH, 44680-1122",82.928,Strasburg, OH, 44680,1122
 Strasburg-Franklin High School,Strasburg-Franklin Local,Tuscarawas,"Strasburg, OH, 44680-1122",78.346,Strasburg, OH, 44680,1122
@@ -2271,12 +2406,14 @@ Streetsboro Middle School,Streetsboro City,Portage,"Streetsboro, OH, 44241-1730"
 Streetsboro High School,Streetsboro City,Portage,"Streetsboro, OH, 44241-1729",75.395,Streetsboro, OH, 44241,1729
 Strongsville High School,Strongsville City,Cuyahoga,"Strongsville, OH, 44149-4925",93.077,Strongsville, OH, 44149,4925
 Strongsville Middle School,Strongsville City,Cuyahoga,"Strongsville, OH, 44136-3402",93.104,Strongsville, OH, 44136,3402
+Struble Elementary School,Northwest Local,Hamilton,"Cincinnati, OH, 45239-5315",NC,Cincinnati, OH, 45239,5315
 Struthers High School,Struthers City,Mahoning,"Struthers, OH, 44471-1710",73.181,Struthers, OH, 44471,1710
 Stryker Elementary School,Stryker Local,Williams,"Stryker, OH, 43557-9307",90.393,Stryker, OH, 43557,9307
 Stryker High School,Stryker Local,Williams,"Stryker, OH, 43557-9307",81.299,Stryker, OH, 43557,9307
 Gahanna West Middle School,Gahanna-Jefferson City,Franklin,"Gahanna, OH, 43230-2438",90.394,Gahanna, OH, 43230,2438
 Suffield Elementary School,Field Local,Portage,"Mogadore, OH, 44260-9577",98.613,Mogadore, OH, 44260,9577
 Elida Elementary,Elida Local,Allen,"Elida, OH, 45807-1109",96.549,Elida, OH, 45807,1109
+Sugarcreek Education Center,Bellbrook-Sugarcreek Local,Greene,"Bellbrook, OH, 45305-8750",NC,Bellbrook, OH, 45305,8750
 Black River Education Center Elementary School,Black River Local,Medina,"Sullivan, OH, 44880-9731",93.712,Sullivan, OH, 44880,9731
 Sullivant Elementary School,Columbus City,Franklin,"Columbus, OH, 43223-2305",56.759,Columbus, OH, 43223,2305
 Hannah Crawford Elementary School grades 3 -5,Colonel Crawford Local,Crawford,"Crestline, OH, 44827-9480",90.918,Crestline, OH, 44827,9480
@@ -2315,6 +2452,7 @@ Taylor High School,Three Rivers Local,Hamilton,"Cleves, OH, 45002-1002",84.241,C
 Teays Valley High School,Teays Valley Local,Pickaway,"Ashville, OH, 43103-9551",79.256,Ashville, OH, 43103,9551
 Tecumseh Elementary School,Xenia Community City,Greene,"Xenia, OH, 45385-1238",87.727,Xenia, OH, 45385,1238
 Tecumseh High School,Tecumseh Local,Clark,"New Carlisle, OH, 45344-9290",69.747,New Carlisle, OH, 45344,9290
+Forestlawn Elementary,Sheffield-Sheffield Lake City,Lorain,"Sheffield Lake, OH, 44054-2048",NC,Sheffield Lake, OH, 44054,2048
 Terrace Park Elementary School,Mariemont City,Hamilton,"Terrace Park, OH, 45174-1203",109.284,Terrace Park, OH, 45174,1203
 Madison-Plains Junior High,Madison-Plains Local,Madison,"London, OH, 43140-9751",85.367,London, OH, 43140,9751
 The Plains Elementary School,Athens City,Athens,"The Plains, OH, 45780-1453",74.263,The Plains, OH, 45780,1453
@@ -2355,6 +2493,7 @@ Union Elementary School,Northmont City,Montgomery,"Union, OH, 45322-3005",93.922
 Union Elementary School,River View Local,Coshocton,"Warsaw, OH, 43844-9780",102.898,Warsaw, OH, 43844,9780
 Crestview Middle School,Crestview Local,Richland,"Ashland, OH, 44805-9262",94.484,Ashland, OH, 44805,9262
 Granville Middle School,Granville Exempted Village,Licking,"Granville, OH, 43023-1043",105.187,Granville, OH, 43023,1043
+Poland Union Elementary School,Poland Local,Mahoning,"Poland, OH, 44514-2049",NC,Poland, OH, 44514,2049
 Union Elementary School,Lakota Local,Butler,"West Chester, OH, 45069-1233",101.910,West Chester, OH, 45069,1233
 Union Local High School,Union Local,Belmont,"Belmont, OH, 43718-9568",67.370,Belmont, OH, 43718,9568
 Unioto High School,Union-Scioto Local,Ross,"Chillicothe, OH, 45601-4055",73.650,Chillicothe, OH, 45601,4055
@@ -2428,11 +2567,13 @@ West Main Elementary School,Ravenna City,Portage,"Ravenna, OH, 44266-2722",93.35
 West Mound Elementary School,Columbus City,Franklin,"Columbus, OH, 43223-2018",55.081,Columbus, OH, 43223,2018
 West Muskingum High School,West Muskingum Local,Muskingum,"Zanesville, OH, 43701-8983",71.933,Zanesville, OH, 43701,8983
 East Palestine Middle School,East Palestine City,Columbiana,"East Palestine, OH, 44413-1664",77.218,East Palestine, OH, 44413,1664
+West Park Elementary School,Ravenna City,Portage,"Ravenna, OH, 44266-1413",NC,Ravenna, OH, 44266,1413
 West Union Elementary School,Adams County Ohio Valley Local,Adams,"West Union, OH, 45693-9654",75.561,West Union, OH, 45693,9654
 West Union High School,Adams County Ohio Valley Local,Adams,"West Union, OH, 45693-8702",68.237,West Union, OH, 45693,8702
 Hilltop Elementary School,Millcreek-West Unity Local,Williams,"West Unity, OH, 43570-9465",90.582,West Unity, OH, 43570,9465
 Wade Park,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44103-3304",47.150,Cleveland, OH, 44103,3304
 Wadsworth High School,Wadsworth City,Medina,"Wadsworth, OH, 44281-2319",86.726,Wadsworth, OH, 44281,2319
+Wait Primary Elementary School,Streetsboro City,Portage,"Streetsboro, OH, 44241-4745",NC,Streetsboro, OH, 44241,4745
 Waite High School,Toledo City,Lucas,"Toledo, OH, 43605-2124",54.395,Toledo, OH, 43605,2124
 Walbridge Elementary School,Toledo City,Lucas,"Toledo, OH, 43609-2251",65.669,Toledo, OH, 43609,2251
 Heritage Elementary School,River Valley Local,Marion,"Marion, OH, 43302-8910",93.355,Marion, OH, 43302,8910
@@ -2461,7 +2602,9 @@ Washington Elementary School,Lorain City,Lorain,"Lorain, OH, 44052-4615",59.241,
 Washington Elementary School,Fremont City,Sandusky,"Lindsey, OH, 43442",97.273,Lindsey, OH, 43442,
 Washington Elementary School,Logan Elm Local,Pickaway,"Circleville, OH, 43113-9266",90.918,Circleville, OH, 43113,9266
 Hillsboro Intermediate School,Hillsboro City,Highland,"Hillsboro, OH, 45133-1619",87.473,Hillsboro, OH, 45133,1619
+Washington K-1 Elementary School,Tiffin City,Seneca,"Tiffin, OH, 44883-2029",NC,Tiffin, OH, 44883,2029
 Washington Junior High School,Washington Local,Lucas,"Toledo, OH, 43613-2033",76.809,Toledo, OH, 43613,2033
+Washington Elementary School,Bryan City,Williams,"Bryan, OH, 43506-1905",NC,Bryan, OH, 43506,1905
 Washington Elementary School,Marlington Local,Stark,"Alliance, OH, 44601-8193",100.355,Alliance, OH, 44601,8193
 Washington Elementary School,Marietta City,Washington,"Marietta, OH, 45750-1923",81.034,Marietta, OH, 45750,1923
 George Washington Elementary School,Marion City,Marion,"Marion, OH, 43302-5532",72.428,Marion, OH, 43302,5532
@@ -2478,6 +2621,7 @@ Waterloo High School,Waterloo Local,Portage,"Atwater, OH, 44201-9349",82.238,Atw
 Waterville Primary School,Anthony Wayne Local,Lucas,"Waterville, OH, 43566-1253",106.539,Waterville, OH, 43566,1253
 Watkins Memorial High School,Southwest Licking Local,Licking,"Pataskala, OH, 43062-9053",83.926,Pataskala, OH, 43062,9053
 Watson Elementary School,Perry Local,Stark,"Massillon, OH, 44646-3005",97.559,Massillon, OH, 44646,3005
+Austintown Elementary School,Austintown Local Schools,Mahoning,"Youngstown, OH, 44515-3703",NC,Youngstown, OH, 44515,3703
 Wauseon High School,Wauseon Exempted Village,Fulton,"Wauseon, OH, 43567-1269",84.639,Wauseon, OH, 43567,1269
 Waverly Elementary School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44102-2940",56.696,Cleveland, OH, 44102,2940
 Waverly High School,Waverly City,Pike,"Waverly, OH, 45690",67.691,Waverly, OH, 45690,
@@ -2537,6 +2681,7 @@ Westwood Elementary School,Wellington Exempted Village,Lorain,"Wellington, OH, 4
 Riverdale Middle School,Riverdale Local,Hancock,"Mt Blanchard, OH, 45867-9783",84.831,Mt Blanchard, OH, 45867,9783
 Wheelersburg Elementary School,Wheelersburg Local,Scioto,"Wheelersburg, OH, 45694-9088",98.302,Wheelersburg, OH, 45694,9088
 Wheelersburg High School,Wheelersburg Local,Scioto,"Wheelersburg, OH, 45694-9088",91.662,Wheelersburg, OH, 45694,9088
+Hannah Crawford Elementary School PreK-Grade 2,Colonel Crawford Local,Crawford,"North Robinson, OH, 44827-9480",NC,North Robinson, OH, 44827,9480
 Whetstone High School,Columbus City,Franklin,"Columbus, OH, 43214-3040",58.277,Columbus, OH, 43214,3040
 Whipple Heights Elementary School,Perry Local,Stark,"Canton, OH, 44708-3418",97.092,Canton, OH, 44708,3418
 Whiteoak High School,Bright Local,Highland,"Mowrystown, OH, 45155",60.594,Mowrystown, OH, 45155,
@@ -2545,6 +2690,7 @@ Whitehall Yearling High School,Whitehall City,Franklin,"Whitehall, OH, 43213-280
 Whitehouse Primary School,Anthony Wayne Local,Lucas,"Whitehouse, OH, 43571-9567",104.016,Whitehouse, OH, 43571,9567
 Whitmer High School,Washington Local,Lucas,"Toledo, OH, 43613-2022",74.970,Toledo, OH, 43613,2022
 Whitney Elementary School,Strongsville City,Cuyahoga,"Strongsville, OH, 44136-1951",101.702,Strongsville, OH, 44136,1951
+Whittier Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-6063",NC,Findlay, OH, 45840,6063
 Whittier Elementary School,Toledo City,Lucas,"Toledo, OH, 43612-1855",64.672,Toledo, OH, 43612,1855
 Whittier Elementary School,Sidney City,Shelby,"Sidney, OH, 45365-1707",95.966,Sidney, OH, 45365,1707
 Whittier Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-2310",100.196,Westerville, OH, 43081,2310
@@ -2555,6 +2701,7 @@ Wickliffe High School,Wickliffe City,Lake,"Wickliffe, OH, 44092-2020",76.072,Wic
 Wickliffe Middle School,Wickliffe City,Lake,"Wickliffe, OH, 44092-1911",89.151,Wickliffe, OH, 44092,1911
 Wilbur Wright School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44111-3601",55.020,Cleveland, OH, 44111,3601
 Wilcox Elementary School,North Ridgeville City,Lorain,"North Ridgeville, OH, 44039-4017",91.588,North Ridgeville, OH, 44039,4017
+Wilcox Elementary School,Twinsburg City,Summit,"Twinsburg, OH, 44087-1856",NC,Twinsburg, OH, 44087,1856
 Piqua Central Intermediate School,Piqua City,Miami,"Piqua, OH, 45356-1713",80.484,Piqua, OH, 45356,1713
 Wildwood Elementary School,Middletown City,Butler,"Middletown, OH, 45042-2562",71.738,Middletown, OH, 45042,2562
 Willard High School,Willard City,Huron,"Willard, OH, 44890-1359",71.249,Willard, OH, 44890,1359
@@ -2596,8 +2743,11 @@ Woodbury Elementary School,Shaker Heights City,Cuyahoga,"Shaker Heights, OH, 441
 Woodcrest Elementary School,Columbus City,Franklin,"Columbus, OH, 43232-2864",60.621,Columbus, OH, 43232,2864
 Woodland Elementary School,Mansfield City,Richland,"Mansfield, OH, 44907-1122",70.484,Mansfield, OH, 44907,1122
 Woodland Elementary School,Stow-Munroe Falls City School District,Summit,"Stow, OH, 44224-3620",100.041,Stow, OH, 44224,3620
+Barbara F Schreiber Elementary School,Canton City,Stark,"Canton, OH, 44703-1645",NC,Canton, OH, 44703,1645
+Greenville Primary School,Greenville City,Darke,"Greenville, OH, 45331-9395",NC,Greenville, OH, 45331,9395
 Woodlawn Elementary School,Princeton City,Hamilton,"Cincinnati, OH, 45215-1014",87.262,Cincinnati, OH, 45215,1014
 Woodmore Elementary School,Woodmore Local,Sandusky,"Woodville, OH, 43469-1018",100.205,Woodville, OH, 43469,1018
+Woodmore High School,Woodmore Local,Sandusky,"Elmore, OH, 43416-9737",NC,Elmore, OH, 43416,9737
 Woodridge High School,Woodridge Local,Summit,"Peninsula, OH, 44264-9706",82.534,Peninsula, OH, 44264,9706
 Woodsfield Elementary School,Switzerland of Ohio Local,Monroe,"Woodsfield, OH, 43793-9062",70.284,Woodsfield, OH, 43793,9062
 Monroe Central High School,Switzerland of Ohio Local,Monroe,"Woodsfield, OH, 43793-9062",63.539,Woodsfield, OH, 43793,9062
@@ -2606,6 +2756,7 @@ Woodward High School,Toledo City,Lucas,"Toledo, OH, 43608-2061",45.423,Toledo, O
 Woodward Park Middle School,Columbus City,Franklin,"Columbus, OH, 43229-4431",60.446,Columbus, OH, 43229,4431
 Wooster High School,Wooster City,Wayne,"Wooster, OH, 44691-8540",82.551,Wooster, OH, 44691,8540
 Wooster Twp Elementary School,Triway Local,Wayne,"Wooster, OH, 44691-4107",91.330,Wooster, OH, 44691,4107
+Worley Elementary School,Canton City,Stark,"Canton, OH, 44709-3655",NC,Canton, OH, 44709,3655
 Worthington Elementary School,Chillicothe City,Ross,"Chillicothe, OH, 45601-1455",90.552,Chillicothe, OH, 45601,1455
 Worthington Estates Elementary School,Worthington City,Franklin,"Worthington, OH, 43085-2425",94.972,Worthington, OH, 43085,2425
 Thomas Worthington High School,Worthington City,Franklin,"Worthington, OH, 43085-3527",86.051,Worthington, OH, 43085,3527
@@ -2635,6 +2786,7 @@ Roberts Middle School,Cuyahoga Falls City,Summit,"Cuyahoga Falls, OH, 44221-1248
 Fairborn High School,Fairborn City,Greene,"Fairborn, OH, 45324-3912",76.120,Fairborn, OH, 45324,3912
 Bigelow Hill Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-4185",88.163,Findlay, OH, 45840,4185
 Wilson Vance Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-6910",97.998,Findlay, OH, 45840,6910
+Hampton Bennett Early Childhood Center,Franklin City,Warren,"Franklin, OH, 45005-2559",NC,Franklin, OH, 45005,2559
 Benjamin Harrison Elementary School,Marion City,Marion,"Marion, OH, 43302-5207",73.012,Marion, OH, 43302,5207
 Southeast Elementary School,Salem City,Columbiana,"Salem, OH, 44460-2545",91.055,Salem, OH, 44460,2545
 Sidney Middle School,Sidney City,Shelby,"Sidney, OH, 45365-2951",81.859,Sidney, OH, 45365,2951
@@ -2658,6 +2810,8 @@ Mad River Middle School,Mad River Local,Montgomery,"Dayton, OH, 45424-5019",68.3
 Faircrest Memorial Middle School,Canton Local,Stark,"Canton, OH, 44706-4841",79.786,Canton, OH, 44706,4841
 Green Middle School,Green Local,Summit,"Green, OH, 44232-0218",98.143,Green, OH, 44232,0218
 Fairbrook Elementary School,Beavercreek City,Greene,"Beavercreek, OH, 45430-1749",105.594,Beavercreek, OH, 45430,1749
+State School For The Blind,Ohio School For The Blind,Franklin,"Columbus, OH, 43214-1240",NC,Columbus, OH, 43214,1240
+Centerville Primary Village North,Centerville City,Montgomery,"Centerville, OH, 45459-2239",NC,Centerville, OH, 45459,2239
 Mariemont Elementary School,Mariemont City,Hamilton,"Cincinnati, OH, 45227-4303",104.098,Cincinnati, OH, 45227,4303
 Kimpton Middle School,Stow-Munroe Falls City School District,Summit,"Munroe Falls, OH, 44262-1331",89.607,Munroe Falls, OH, 44262,1331
 Sylvania Arbor Hills Junior High School,Sylvania Schools,Lucas,"Sylvania, OH, 43560-2520",87.161,Sylvania, OH, 43560,2520
@@ -2666,6 +2820,7 @@ Grove City High School,South-Western City,Franklin,"Grove City, OH, 43123-8621",
 Westland High School,South-Western City,Franklin,"Galloway, OH, 43119-9402",59.835,Galloway, OH, 43119,9402
 Annehurst Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-1226",98.212,Westerville, OH, 43081,1226
 Chamberlin Hill Elementary School,Findlay City,Hancock,"Findlay, OH, 45840-1160",95.735,Findlay, OH, 45840,1160
+Crestwood Elementary School,Swanton Local,Fulton,"Swanton, OH, 43558-1114",NC,Swanton, OH, 43558,1114
 Helke Elementary School,Vandalia-Butler City,Montgomery,"Vandalia, OH, 45377-1406",90.111,Vandalia, OH, 45377,1406
 Cloverleaf Middle School,Cloverleaf Local,Medina,"Seville, OH, 44273-9158",88.573,Seville, OH, 44273,9158
 Mount Vernon Middle School,Mount Vernon City,Knox,"Mount Vernon, OH, 43050-4226",81.585,Mount Vernon, OH, 43050,4226
@@ -2674,6 +2829,7 @@ Rushwood Elementary School,Nordonia Hills City,Summit,"Northfield, OH, 44067-178
 Geo G Dodge Elementary School,Twinsburg City,Summit,"Twinsburg, OH, 44087-1722",95.501,Twinsburg, OH, 44087,1722
 Eastwood Middle School,Eastwood Local,Wood,"Pemberville, OH, 43450-9626",96.221,Pemberville, OH, 43450,9626
 Northwood Elementary School,Northmont City,Montgomery,"Dayton, OH, 45415-2023",87.163,Dayton, OH, 45415,2023
+Mayfield Preschool,Mayfield City,Cuyahoga,"Cleveland, OH, 44143-3114",NC,Cleveland, OH, 44143,3114
 Valley Forge Elementary School,Huber Heights City,Montgomery,"Huber Heights, OH, 45424-2614",76.959,Huber Heights, OH, 45424,2614
 Glendening Elementary School,Groveport Madison Local,Franklin,"Groveport, OH, 43125-9704",75.698,Groveport, OH, 43125,9704
 Sedalia Elementary,Groveport Madison Local,Franklin,"Columbus, OH, 43232-6346",80.975,Columbus, OH, 43232,6346
@@ -2699,7 +2855,10 @@ Jefferson Area Junior High School,Jefferson Area Local,Ashtabula,"Jefferson, OH,
 Sherwood Elementary School,Forest Hills Local,Hamilton,"Cincinnati, OH, 45230-2129",98.920,Cincinnati, OH, 45230,2129
 Benjamin Logan Middle School,Benjamin Logan Local,Logan,"Bellefontaine, OH, 43311-9532",92.010,Bellefontaine, OH, 43311,9532
 Spencerville Middle School,Spencerville Local,Allen,"Spencerville, OH, 45887-1293",93.112,Spencerville, OH, 45887,1293
+Howland Glen Elementary School,Howland Local,Trumbull,"Warren, OH, 44484-1403",NC,Warren, OH, 44484,1403
+Howland Springs Elementary School,Howland Local,Trumbull,"Warren, OH, 44484-3108",NC,Warren, OH, 44484,3108
 Venice Heights Elementary School,Sandusky City,Erie,"Sandusky, OH, 44870-1630",64.502,Sandusky, OH, 44870,1630
+Southeast Primary Elementary School,Southeast Local,Portage,"Ravenna, OH, 44266-9231",NC,Ravenna, OH, 44266,9231
 Pleasant View Middle School,South-Western City,Franklin,"Grove City, OH, 43123-8829",75.995,Grove City, OH, 43123,8829
 Brookpark Middle School,South-Western City,Franklin,"Grove City, OH, 43123-2069",84.131,Grove City, OH, 43123,2069
 Finland Middle School,South-Western City,Franklin,"Columbus, OH, 43223-3719",69.177,Columbus, OH, 43223,3719
@@ -2720,6 +2879,7 @@ Bellefontaine Middle School,Bellefontaine City,Logan,"Bellefontaine, OH, 43311-9
 Baker Middle School,Fairborn City,Greene,"Fairborn, OH, 45324-5349",74.395,Fairborn, OH, 45324,5349
 Luis Munoz Marin School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44113-5262",41.561,Cleveland, OH, 44113,5262
 Joseph M Gallagher School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44102-2913",48.990,Cleveland, OH, 44102,2913
+Bundy Elementary School,Wellston City,Jackson,"Wellston, OH, 45692-1664",NC,Wellston, OH, 45692,1664
 Garrett Morgan Schl Of Science School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44113-3286",52.049,Cleveland, OH, 44113,3286
 Jefferson Middle School,Delphos City,Allen,"Delphos, OH, 45833-1648",86.810,Delphos, OH, 45833,1648
 Paulding Elementary School,Paulding Exempted Village,Paulding,"Paulding, OH, 45879-1251",88.007,Paulding, OH, 45879,1251
@@ -2733,12 +2893,14 @@ Orchard Middle School,Solon City,Cuyahoga,"Solon, OH, 44139-4208",112.387,Solon,
 George Mcdowell-Exchange Middle School,Logan Elm Local,Pickaway,"Circleville, OH, 43113-9448",84.960,Circleville, OH, 43113,9448
 Teays Valley East Middle School,Teays Valley Local,Pickaway,"Ashville, OH, 43103-9638",87.694,Ashville, OH, 43103,9638
 Westfall Middle School,Westfall Local,Pickaway,"Williamsport, OH, 43164-9745",80.768,Williamsport, OH, 43164,9745
+Northwood Elementary School,North Canton City,Stark,"North Canton, OH, 44720-6234",NC,North Canton, OH, 44720,6234
 Lake Middle School,Lake Local,Stark,"Hartville, OH, 44632-9047",95.439,Hartville, OH, 44632,9047
 Woodlands Intermediate School,Huron City Schools,Erie,"Huron, OH, 44839-1261",98.384,Huron, OH, 44839,1261
 Maplewood Elementary School,Shawnee Local,Allen,"Lima, OH, 45805-4516",101.532,Lima, OH, 45805,4516
 Mckinley Elementary School,Poland Local,Mahoning,"Poland, OH, 44514-2022",98.908,Poland, OH, 44514,2022
 Middletown Middle School,Middletown City,Butler,"Middletown, OH, 45044-4362",62.748,Middletown, OH, 45044,4362
 Harrison Middle School,Southwest Local,Hamilton,"Harrison, OH, 45030-1929",88.093,Harrison, OH, 45030,1929
+Luther E Ball (Chjcf),Buckeye United School District,Franklin,"Highland Hills, OH, 44128-4884",NC,Highland Hills, OH, 44128,4884
 Cleveland School Of The Arts High School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44106-3050",66.533,Cleveland, OH, 44106,3050
 Barnesville Middle School,Barnesville Exempted Village,Belmont,"Barnesville, OH, 43713-9474",78.523,Barnesville, OH, 43713,9474
 Charles Huber Elementary School,Huber Heights City,Montgomery,"Huber Heights, OH, 45424-6410",86.159,Huber Heights, OH, 45424,6410
@@ -2795,6 +2957,7 @@ Briggs High School,Columbus City,Franklin,"Columbus, OH, 43223-3110",56.300,Colu
 Independence High School,Columbus City,Franklin,"Columbus, OH, 43232-5352",47.652,Columbus, OH, 43232,5352
 Innis Elementary School,Columbus City,Franklin,"Columbus, OH, 43224-3051",52.610,Columbus, OH, 43224,3051
 Liberty Elementary School,Columbus City,Franklin,"Columbus, OH, 43232-5421",51.992,Columbus, OH, 43232,5421
+Indian River (Irjcf),Buckeye United School District,Franklin,"Massillon, OH, 44647-0564",NC,Massillon, OH, 44647,0564
 Ridgedale Elementary School,Ridgedale Local,Marion,"Morral, OH, 43337-9302",80.202,Morral, OH, 43337,9302
 Versailles Middle School,Versailles Exempted Village,Darke,"Versailles, OH, 45380-0313",103.354,Versailles, OH, 45380,0313
 East Muskingum Middle School,East Muskingum Local,Muskingum,"New Concord, OH, 43762-9762",89.647,New Concord, OH, 43762,9762
@@ -2859,15 +3022,20 @@ Holly Hill Elementary School,West Clermont Local,Clermont,"Amelia, OH, 45102-171
 London Elementary School,London City,Madison,"London, OH, 43140-9220",87.364,London, OH, 43140,9220
 J T Karaffa Elementary School,Toronto City,Jefferson,"Toronto, OH, 43964-1952",68.337,Toronto, OH, 43964,1952
 Highland Elementary School,Highland Local,Morrow,"Marengo, OH, 43334-9739",87.280,Marengo, OH, 43334,9739
+Crestwood/Larlham,Crestwood Local,Portage,"Mantua, OH, 44255-9103",NC,Mantua, OH, 44255,9103
 Shenandoah Elementary School,Noble Local,Noble,"Sarahsville, OH, 43779-9702",82.313,Sarahsville, OH, 43779,9702
 Fairbanks Middle School,Fairbanks Local,Union,"Milford Center, OH, 43045-9764",92.484,Milford Center, OH, 43045,9764
 Federal Hocking Middle School,Federal Hocking Local,Athens,"Stewart, OH, 45778-9501",65.088,Stewart, OH, 45778,9501
 Riverside Elementary School,Dublin City,Franklin,"Dublin, OH, 43017-1671",86.732,Dublin, OH, 43017,1671
+Timberlane Learning Center,Northridge Local,Montgomery,"Dayton, OH, 45414-4530",NC,Dayton, OH, 45414,4530
 Oakwood Junior High School,Oakwood City,Montgomery,"Dayton, OH, 45419-3118",106.922,Dayton, OH, 45419,3118
 Academy Of World Languages Elementary School,Cincinnati City,Hamilton,"Cincinnati, OH, 45207-1943",54.458,Cincinnati, OH, 45207,1943
+Ralph C Starkey (Cjcf),Buckeye United School District,Franklin,"Circleville, OH, 43113-9594",NC,Circleville, OH, 43113,9594
+Hillsboro Early Childhood Center,Hillsboro City,Highland,"Hillsboro, OH, 45133-1619",NC,Hillsboro, OH, 45133,1619
 Donovan Elementary School,Lebanon City,Warren,"Lebanon, OH, 45036-2375",94.521,Lebanon, OH, 45036,2375
 Mccord Middle School,Worthington City,Franklin,"Columbus, OH, 43235-1992",90.512,Columbus, OH, 43235,1992
 Rossford Junior High School,Rossford Exempted Village,Wood,"Rossford, OH, 43460-1247",80.315,Rossford, OH, 43460,1247
+Secrest Elementary School,Rolling Hills Local,Guernsey,"Senecaville, OH, 43780-9422",NC,Senecaville, OH, 43780,9422
 Scottish Corners Elementary School,Dublin City,Franklin,"Dublin, OH, 43017-2609",109.402,Dublin, OH, 43017,2609
 Granby Elementary School,Worthington City,Franklin,"Columbus, OH, 43235-1992",98.918,Columbus, OH, 43235,1992
 Worthington Park Elementary School,Worthington City,Franklin,"Westerville, OH, 43081-5681",95.579,Westerville, OH, 43081,5681
@@ -2886,18 +3054,22 @@ Shiloh Elementary School,Plymouth-Shiloh Local,Richland,"Plymouth, OH, 44865-109
 North Royalton Middle School,North Royalton City,Cuyahoga,"North Royalton, OH, 44133-4943",100.144,North Royalton, OH, 44133,4943
 Albert Chapman Elementary School,Dublin City,Franklin,"Powell, OH, 43065-9504",101.464,Powell, OH, 43065,9504
 Daniel Wright Elementary School,Dublin City,Franklin,"Columbus, OH, 43235-7532",86.462,Columbus, OH, 43235,7532
+Indian Hill Primary Elementary School,Indian Hill Exempted Village,Hamilton,"Cincinnati, OH, 45243-3309",NC,Cincinnati, OH, 45243,3309
 McVay Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-2714",96.572,Westerville, OH, 43081,2714
 Wilder Elementary School,Westerville City,Franklin,"Westerville, OH, 43081-3713",89.430,Westerville, OH, 43081,3713
 Heritage Middle School,Westerville City,Franklin,"Westerville, OH, 43082-1888",80.128,Westerville, OH, 43082,1888
 Talawanda Middle School,Talawanda City,Butler,"Oxford, OH, 45056-8943",89.068,Oxford, OH, 45056,8943
 Symmes Elementary School,Sycamore Community City,Hamilton,"Loveland, OH, 45140-8229",106.780,Loveland, OH, 45140,8229
+Parkview Early Education Center,Fairview Park City,Cuyahoga,"Fairview Park, OH, 44126-3047",NC,Fairview Park, OH, 44126,3047
 Clinton-Massie Middle School,Clinton-Massie Local,Clinton,"Clarksville, OH, 45113-8201",87.178,Clarksville, OH, 45113,8201
 Cardington-Lincoln Middle School,Cardington-Lincoln Local,Morrow,"Cardington, OH, 43315-9217",81.237,Cardington, OH, 43315,9217
 Slate Hill Elementary School,Worthington City,Franklin,"Worthington, OH, 43085-5881",84.243,Worthington, OH, 43085,5881
 Whitewater Valley Elementary School,Southwest Local,Hamilton,"Harrison, OH, 45030-8969",96.689,Harrison, OH, 45030,8969
 Coldwater Elementary School,Coldwater Exempted Village,Mercer,"Coldwater, OH, 45828-1242",100.347,Coldwater, OH, 45828,1242
+Birch Elementary School,North Olmsted City,Cuyahoga,"North Olmsted, OH, 44070-2844",NC,North Olmsted, OH, 44070,2844
 Buckeye Local High School,Buckeye Local,Jefferson,"Rayland, OH, 43943-7847",75.135,Rayland, OH, 43943,7847
 Fort Meigs Elementary School,Perrysburg Exempted Village,Wood,"Perrysburg, OH, 43551-1152",107.683,Perrysburg, OH, 43551,1152
+Shawnee Early Childhood School,Lakota Local,Butler,"Cincinnati, OH, 45241-5107",NC,Cincinnati, OH, 45241,5107
 Woodland Elementary School,Lakota Local,Butler,"Liberty Township, OH, 45044-9740",96.565,Liberty Township, OH, 45044,9740
 Vinton County Middle School,Vinton County Local,Vinton,"Mc Arthur, OH, 45651",72.814,Mc Arthur, OH, 45651,
 Worthington Kilbourne High School,Worthington City,Franklin,"Columbus, OH, 43235-1991",92.758,Columbus, OH, 43235,1991
@@ -2923,6 +3095,7 @@ Hilliard Crossing Elementary School,Hilliard City,Franklin,"Hilliard, OH, 43026-
 Millcreek Elementary School,Southern Local,Perry,"Corning, OH, 43730-9710",76.469,Corning, OH, 43730,9710
 Canal Winchester Middle School,Canal Winchester Local,Franklin,"Canal Winchester, OH, 43110-7893",86.921,Canal Winchester, OH, 43110,7893
 Kilbourne Middle School,Worthington City,Franklin,"Worthington, OH, 43085-3101",90.283,Worthington, OH, 43085,3101
+North Ridgeville Education Ctr Elementary School,North Ridgeville City,Lorain,"North Ridgeville, OH, 44039-2339",NC,North Ridgeville, OH, 44039,2339
 Crooksville Elementary School,Crooksville Exempted Village,Perry,"Crooksville, OH, 43731-9558",78.943,Crooksville, OH, 43731,9558
 Cuyahoga Hts Middle School,Cuyahoga Heights Local,Cuyahoga,"Cuyahoga Heights, OH, 44125-1043",96.768,Cuyahoga Heights, OH, 44125,1043
 Loveland Elementary School,Loveland City,Hamilton,"Loveland, OH, 45140-2703",100.375,Loveland, OH, 45140,2703
@@ -2939,10 +3112,12 @@ Dublin Scioto High School,Dublin City,Franklin,"Dublin, OH, 43016-8349",87.195,D
 Ripley Union Lewis Huntington Elementary School,Ripley-Union-Lewis-Huntington Local,Brown,"Ripley, OH, 45167-1306",80.381,Ripley, OH, 45167,1306
 Buckeye Woods Elementary School,South-Western City,Franklin,"Grove City, OH, 43123-8985",96.025,Grove City, OH, 43123,8985
 Darby Woods Elementary School,South-Western City,Franklin,"Galloway, OH, 43119-8548",83.283,Galloway, OH, 43119,8548
+Mason Early Childhood Center Elementary School,Mason City,Warren,"Mason, OH, 45040-4517",NC,Mason, OH, 45040,4517
 Stevenson Elementary School,Heath City,Licking,"Heath, OH, 43056-1274",91.979,Heath, OH, 43056,1274
 Liberty-Benton Middle School,Liberty-Benton Local,Hancock,"Findlay, OH, 45840-8811",88.709,Findlay, OH, 45840,8811
 Amanda-Clearcreek Middle School,Amanda-Clearcreek Local,Fairfield,"Amanda, OH, 43102-9330",87.317,Amanda, OH, 43102,9330
 Robert F Schultz Elementary School,Delaware City,Delaware,"Delaware, OH, 43015-4228",97.565,Delaware, OH, 43015,4228
+Green Primary Elementary School,Green Local,Scioto,"Franklin Furnace, OH, 45629-8807",NC,Franklin Furnace, OH, 45629,8807
 Brooklyn Intermediate School,Brooklyn City,Cuyahoga,"Brooklyn, OH, 44144-2614",78.732,Brooklyn, OH, 44144,2614
 Mary Emma Bailey Elementary School,Dublin City,Franklin,"Dublin, OH, 43017-8418",106.983,Dublin, OH, 43017,8418
 Mariemont Junior High School,Mariemont City,Hamilton,"Cincinnati, OH, 45227-3600",100.649,Cincinnati, OH, 45227,3600
@@ -2957,6 +3132,7 @@ Green Intermediate Elementary School,Green Local,Summit,"Green, OH, 44232-0218",
 Cornerstone Elementary School,Wooster City,Wayne,"Wooster, OH, 44691-3401",79.550,Wooster, OH, 44691,3401
 Hilliard Darby High School,Hilliard City,Franklin,"Hilliard, OH, 43026-8466",87.486,Hilliard, OH, 43026,8466
 Adena Middle School,Adena Local,Ross,"Frankfort, OH, 45628-9503",85.121,Frankfort, OH, 45628,9503
+Creekside Early Childhood School,Lakota Local,Butler,"West Chester, OH, 45069-1012",NC,West Chester, OH, 45069,1012
 Lakota Ridge Junior School,Lakota Local,Butler,"West Chester, OH, 45069-6413",93.862,West Chester, OH, 45069,6413
 Lakota East High School,Lakota Local,Butler,"Liberty Township, OH, 45044-9578",91.048,Liberty Township, OH, 45044,9578
 Fairfield Intermediate Elementary School,Fairfield City,Butler,"Fairfield, OH, 45014-3006",85.652,Fairfield, OH, 45014,3006
@@ -2999,6 +3175,7 @@ Washington Park Community School,Washington Park Community School,Cuyahoga,"Newb
 Summit Academy Community School for Alternative Learn-Canton,Summit Academy Community School for Alternative Learn-Canton,Stark,"Canton, OH, 44707-3778",54.364,Canton, OH, 44707,3778
 Summit Academy Community School Alternative Learners-Lorain,Summit Academy Community School Alternative Learners-Lorain,Lorain,"Lorain, OH, 44055-2756",61.955,Lorain, OH, 44055,2756
 T.C.P. World Academy,T.C.P. World Academy,Hamilton,"Cincinnati, OH, 45213-1624",91.245,Cincinnati, OH, 45213,1624
+Richard Allen Preparatory,Richard Allen Preparatory,Montgomery,"Dayton, OH, 45406-5822",NC,Dayton, OH, 45406,5822
 Electronic Classroom Of Tomorrow,Electronic Classroom Of Tomorrow,Franklin,"Columbus, OH, 43207-4083",53.975,Columbus, OH, 43207,4083
 "Graham School, The","Graham School, The",Franklin,"Columbus, OH, 43214-3158",66.787,Columbus, OH, 43214,3158
 Cornerstone Academy Community School,Cornerstone Academy Community School,Franklin,"Westerville, OH, 43081-9620",87.510,Westerville, OH, 43081,9620
@@ -3016,6 +3193,7 @@ Riverside Academy,Riverside Academy,Hamilton,"Cincinnati, OH, 45204-1214",52.828
 Richard Allen Academy,Richard Allen Academy,Montgomery,"Dayton, OH, 45406-5804",53.481,Dayton, OH, 45406,5804
 Lincoln Preparatory Academy,Lincoln Preparatory Academy,Cuyahoga,"Cleveland, OH, 44109-1255",56.829,Cleveland, OH, 44109,1255
 Toledo School For The Arts,Toledo School For The Arts,Lucas,"Toledo, OH, 43604-5459",88.360,Toledo, OH, 43604,5459
+Dayton Leadership Academies-Early Learning Academy,Dayton Leadership Academies-Early Learning Academy,Montgomery,"Dayton, OH, 45402-6217",NC,Dayton, OH, 45402,6217
 Youngstown Community School,Youngstown Community School,Mahoning,"Youngstown, OH, 44502-1838",73.414,Youngstown, OH, 44502,1838
 Constellation Schools: Old Brooklyn Community Elementary,Constellation Schools: Old Brooklyn Community Elementary,Cuyahoga,"Cleveland, OH, 44109-4705",87.767,Cleveland, OH, 44109,4705
 Autism Model School,Autism Model School,Lucas,"Toledo, OH, 43613-1901",63.333,Toledo, OH, 43613,1901
@@ -3032,9 +3210,11 @@ Genoa Middle School,Westerville City,Franklin,"Westerville, OH, 43082-9251",96.9
 Hillsboro Middle School,Hillsboro City,Highland,"Hillsboro, OH, 45133-1619",75.552,Hillsboro, OH, 45133,1619
 Hedges/Mansfield City Alternative School,Mansfield City,Richland,"Mansfield, OH, 44906-2032",41.346,Mansfield, OH, 44906,2032
 Nagel Middle School,Forest Hills Local,Hamilton,"Cincinnati, OH, 45255-2544",98.824,Cincinnati, OH, 45255,2544
+Wauseon Primary School,Wauseon Exempted Village,Fulton,"Wauseon, OH, 43567-1551",NC,Wauseon, OH, 43567,1551
 Twinsburg High School,Twinsburg City,Summit,"Twinsburg, OH, 44087-1719",89.763,Twinsburg, OH, 44087,1719
 Medlar View Elementary School,Miamisburg City,Montgomery,"Miamisburg, OH, 45342-4335",96.682,Miamisburg, OH, 45342,4335
 Southeast Intermediate Elementary School,Southeast Local,Portage,"Ravenna, OH, 44266-9231",92.265,Ravenna, OH, 44266,9231
+Indian Trail Elementary School,Canal Winchester Local,Franklin,"Canal Winchester, OH, 43110-9046",NC,Canal Winchester, OH, 43110,9046
 Huntington Middle School,Huntington Local,Ross,"Chillicothe, OH, 45601-9378",73.827,Chillicothe, OH, 45601,9378
 Stanton Middle School,Kent City,Portage,"Kent, OH, 44240-2109",91.507,Kent, OH, 44240,2109
 Van Buren Middle School,Van Buren Local,Hancock,"Van Buren, OH, 45889-9720",95.422,Van Buren, OH, 45889,9720
@@ -3049,6 +3229,7 @@ Franklin Woods Intermediate School,South-Western City,Franklin,"Columbus, OH, 43
 Holt Crossing Intermediate School,South-Western City,Franklin,"Grove City, OH, 43123-9688",84.320,Grove City, OH, 43123,9688
 Galloway Ridge Intermediate School,South-Western City,Franklin,"Galloway, OH, 43119-9248",80.956,Galloway, OH, 43119,9248
 Park Street Intermediate School,South-Western City,Franklin,"Grove City, OH, 43123-3225",84.899,Grove City, OH, 43123,3225
+Julian & Marjorie Lange School Elementary School,Oakwood City,Montgomery,"Dayton, OH, 45429-1450",NC,Dayton, OH, 45429,1450
 Little Miami Intermediate Middle School,Little Miami Local,Warren,"Maineville, OH, 45039-8098",91.708,Maineville, OH, 45039,8098
 Harmon Middle School,Pickerington Local,Fairfield,"Pickerington, OH, 43147-9216",87.214,Pickerington, OH, 43147,9216
 Diley Middle School,Pickerington Local,Fairfield,"Pickerington, OH, 43147-2056",97.010,Pickerington, OH, 43147,2056
@@ -3067,6 +3248,7 @@ Loveland Intermediate School,Loveland City,Hamilton,"Loveland, OH, 45140-9308",9
 Carson Elementary School,Cincinnati City,Hamilton,"Cincinnati, OH, 45205-1507",57.814,Cincinnati, OH, 45205,1507
 Liberty Center Middle School,Liberty Center Local,Henry,"Liberty Center, OH, 43532-0434",95.684,Liberty Center, OH, 43532,0434
 H G Blake Elementary School,Medina City SD,Medina,"Medina, OH, 44256-7494",100.908,Medina, OH, 44256,7494
+Choices Alternative School,Canton City,Stark,"Canton, OH, 44707-3819",NC,Canton, OH, 44707,3819
 Portsmouth Elementary,Portsmouth City,Scioto,"Portsmouth, OH, 45662-4368",68.625,Portsmouth, OH, 45662,4368
 Creekview Intermediate Elementary School,Marysville Exempted Village,Union,"Marysville, OH, 43040-8325",94.466,Marysville, OH, 43040,8325
 Alton Darby Elementary School,Hilliard City,Franklin,"Hilliard, OH, 43026-9770",90.684,Hilliard, OH, 43026,9770
@@ -3103,6 +3285,7 @@ International Acad Of Columbus,International Acad Of Columbus,Franklin,"Columbus
 Great Western Academy,Great Western Academy,Franklin,"Columbus, OH, 43204-6221",68.140,Columbus, OH, 43204,6221
 Trotwood Fitness & Prep Acad,Trotwood Fitness & Prep Acad,Montgomery,"Trotwood, OH, 45426-2247",52.989,Trotwood, OH, 45426,2247
 Middletown Fitness & Prep Acad,Middletown Fitness & Prep Acad,Butler,"Middletown, OH, 45044-4201",69.625,Middletown, OH, 45044,4201
+The Autism Academy Of Learning,The Autism Academy Of Learning,Lucas,"Toledo, OH, 43607-2960",NC,Toledo, OH, 43607,2960
 West Preparatory Academy,West Preparatory Academy,Cuyahoga,"Cleveland, OH, 44135-5017",53.047,Cleveland, OH, 44135,5017
 Alternative Education Academy,Alternative Education Academy,Lucas,"Toledo, OH, 43624-1428",60.562,Toledo, OH, 43624,1428
 Constellation Schools: Puritas Community Elementary,Constellation Schools: Puritas Community Elementary,Cuyahoga,"Cleveland, OH, 44135-2716",79.612,Cleveland, OH, 44135,2716
@@ -3119,6 +3302,7 @@ Henry Defer Intermediate Elementary School,Streetsboro City,Portage,"Streetsboro
 Pickerington Lakeview Junior High,Pickerington Local,Fairfield,"Pickerington, OH, 43147-9172",87.338,Pickerington, OH, 43147,9172
 Pickerington High School North,Pickerington Local,Fairfield,"Pickerington, OH, 43147-9428",80.908,Pickerington, OH, 43147,9428
 Hill Intermediate Elementary School,Bethel-Tate Local,Clermont,"Bethel, OH, 45106-1393",94.286,Bethel, OH, 45106,1393
+Bick Primary Elementary School,Bethel-Tate Local,Clermont,"Bethel, OH, 45106-1394",NC,Bethel, OH, 45106,1394
 Maysville Elementary School,Maysville Local,Muskingum,"Zanesville, OH, 43701-7069",90.092,Zanesville, OH, 43701,7069
 Alliance Middle School,Alliance City,Stark,"Alliance, OH, 44601-5365",67.872,Alliance, OH, 44601,5365
 Northside Intermediate School,Alliance City,Stark,"Alliance, OH, 44601-1599",75.895,Alliance, OH, 44601,1599
@@ -3147,6 +3331,7 @@ Wheelersburg Middle School,Wheelersburg Local,Scioto,"Wheelersburg, OH, 45694-90
 Minster Elementary School,Minster Local,Auglaize,"Minster, OH, 45865-1095",104.602,Minster, OH, 45865,1095
 Withrow University High School,Cincinnati City,Hamilton,"Cincinnati, OH, 45208-1216",49.343,Cincinnati, OH, 45208,1216
 Toledo Technology Academy High School,Toledo City,Lucas,"Toledo, OH, 43613-5110",87.494,Toledo, OH, 43613,5110
+Eastern Primary Elementary School,Eastern Local,Pike,"Beaver, OH, 45613-9435",NC,Beaver, OH, 45613,9435
 Eastern Intermediate Elementary School,Eastern Local,Pike,"Beaver, OH, 45613-9435",70.942,Beaver, OH, 45613,9435
 Eastern Middle School,Eastern Local,Pike,"Beaver, OH, 45613-9435",73.793,Beaver, OH, 45613,9435
 Rock Hill Elementary School,Rock Hill Local,Lawrence,"Ironton, OH, 45638-8315",88.459,Ironton, OH, 45638,8315
@@ -3159,7 +3344,10 @@ Indian Springs Elementary,Olentangy Local,Delaware,"Powell, OH, 43065-9757",107.
 Walnut Creek Elementary,Olentangy Local,Delaware,"Galena, OH, 43021-9046",105.989,Galena, OH, 43021,9046
 Dublin Jerome High School,Dublin City,Franklin,"Dublin, OH, 43016-7016",104.969,Dublin, OH, 43016,7016
 Buckeye Central Elementary School,Buckeye Central Local,Crawford,"New Washington, OH, 44854-9521",90.041,New Washington, OH, 44854,9521
+Ohio School For The Deaf,Ohio School For The Deaf,Franklin,"Columbus, OH, 43214-1833",NC,Columbus, OH, 43214,1833
+K-1 Elementary School,New Albany-Plain Local,Franklin,"New Albany, OH, 43054-8437",NC,New Albany, OH, 43054,8437
 Rees E. Price Elementary School,Cincinnati City,Hamilton,"Cincinnati, OH, 45204-1604",56.245,Cincinnati, OH, 45204,1604
+SuccessTech Academy School,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44114-1137",NC,Cleveland, OH, 44114,1137
 Cleveland School of Science & Medicine,Cleveland Municipal,Cuyahoga,"Cleveland, OH, 44106-3051",91.204,Cleveland, OH, 44106,3051
 Woodward Career Technical High School,Cincinnati City,Hamilton,"Cincinnati, OH, 45237-3802",42.895,Cincinnati, OH, 45237,3802
 Aiken High School,Cincinnati City,Hamilton,"Cincinnati, OH, 45224-3101",47.458,Cincinnati, OH, 45224,3101
@@ -3170,6 +3358,9 @@ Roll Hill School,Cincinnati City,Hamilton,"Cincinnati, OH, 45225-1001",57.561,Ci
 Central Elementary School,Cambridge City,Guernsey,"Cambridge, OH, 43725-1609",89.877,Cambridge, OH, 43725,1609
 South Elementary School,Cambridge City,Guernsey,"Cambridge, OH, 43725-2813",97.627,Cambridge, OH, 43725,2813
 North Elementary School,Cambridge City,Guernsey,"Cambridge, OH, 43725-9097",88.771,Cambridge, OH, 43725,9097
+Marion City Digital Academy,Marion City,Marion,"Marion, OH, 43302-5530",NC,Marion, OH, 43302,5530
+Urbana Community School,Urbana City,Champaign,"Urbana, OH, 43078-1498",NC,Urbana, OH, 43078,1498
+Pleasant Community Digital,Pleasant Local,Marion,"Marion, OH, 43302-8421",NC,Marion, OH, 43302,8421
 Lorain K-12 Digital Academy,Lorain City,Franklin,"Lorain, OH, 44052",59.492,Lorain, OH, 44052,
 Ridgedale Community School,Ridgedale Local,Marion,"Morral, OH, 43337-9302",53.000,Morral, OH, 43337,9302
 West Central Learning Academy II,West Central Learning Academy II,Allen,"Lima, OH, 45801-4215",57.500,Lima, OH, 45801,4215
