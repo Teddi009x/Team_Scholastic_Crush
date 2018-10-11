@@ -9,7 +9,7 @@
 Theodore Smiley Jr., Nancy Dziak, Juliana (Julie) Novic
 
 ### **Project Description:**  
-Using data from the Census and teh Ohio Department of Educuation, team members  researched the relationship between school performance and various social and economic factors in a community for public and charter schools.  We selected the three highest population counties in Ohio as our sample and explored the variables of ethnicity, economic disadvantage, and economic opportunity.  
+Using data from the Census and the Ohio Department of Educuation, team members  researched the relationship between school performance and various social and economic factors in a community for public and charter schools.  We selected the three highest population counties in Ohio as our sample and explored the variables of ethnicity, economic disadvantage, and economic opportunity.  
 
 ### **Research Questions:**
 * Do charter schools perform better than standard public schools on the Ohio School Board of Education Performance Index Measures?
