@@ -1,4 +1,4 @@
-# **Project 1 Case Western Reserve University Data Science Bootcamp (3 Contributers)**
+# **Project 1 Case Western Reserve University Data Science Bootcamp (3 Contributors)**
 
 **Link directly to Code: [Project One](TeamScholasticCrush.ipynb)**
 
